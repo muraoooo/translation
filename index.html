@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>EN → JA 翻訳</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Hiragino Sans', 'Yu Gothic', sans-serif;
+      height: 100dvh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      background: #f7f9fc;
+    }
+
+    .panels {
+      flex: 1;
+      min-height: 0;
+      display: flex;
+    }
+
+    /* 左右レイアウト（デフォルト） */
+    .panels.layout-lr { flex-direction: row; }
+    .panels.layout-lr .panel-en { border-right: 1px solid #ddd; border-bottom: none; }
+
+    /* 上下レイアウト */
+    .panels.layout-tb { flex-direction: column; }
+    .panels.layout-tb .panel-en { border-right: none; border-bottom: 1px solid #ddd; }
+
+    /* 上下レイアウト時：上パネル全体を180度回転（対面から読みやすく） */
+    .panels.layout-tb .panel-en {
+      transform: rotate(180deg);
+    }
+    /* 回転で逆になるスクロール方向を補正（最新発言が手前に来るように） */
+    .panels.layout-tb .panel-en .scroll {
+      flex-direction: column-reverse;
+    }
+
+    .panel {
+      flex: 1;
+      min-width: 0;
+      min-height: 0;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .panel-en { background: #fcfeff; border-right: 1px solid #e8edf5; }
+    .panel-ja { background: #fdf7fb; }
+
+    .panel-label {
+      text-align: center;
+      font-size: 12px;
+      font-weight: 700;
+      color: #8a93a3;
+      padding: 7px 0 5px;
+      border-bottom: 1px solid #edf1f7;
+      flex-shrink: 0;
+    }
+
+    .scroll {
+      flex: 1;
+      min-height: 0;
+      overflow-y: auto;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    .placeholder {
+      color: #ccc;
+      font-size: 13px;
+      text-align: center;
+      margin: auto;
+      line-height: 2;
+    }
+
+    .item {
+      border-radius: 10px;
+      padding: 8px 12px;
+      font-size: clamp(14px, 3.8vw, 24px);
+      line-height: 1.55;
+      word-break: break-word;
+      flex-shrink: 0; /* 履歴が増えても潰れないように */
+    }
+
+    .item-en, .item-ja {
+      color: #111;
+    }
+
+    .item.tone-blue {
+      background: #eaf3ff;
+    }
+
+    .item.tone-pink {
+      background: #ffeaf4;
+    }
+
+    .item.interim {
+      opacity: 1;
+      border: 1px solid #c9d8f5;
+    }
+
+    .item.tone-pink.interim {
+      border-color: #ffcbe0;
+    }
+
+    .controls {
+      background: #fcfdff;
+      border-top: 1px solid #e8edf5;
+      padding: 10px 16px 14px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      flex-shrink: 0;
+    }
+
+    .btn-start {
+      border: none;
+      border-radius: 24px;
+      padding: 12px 32px;
+      font-size: 15px;
+      font-weight: 700;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.12);
+      background: #f5f5f5;
+      color: #333;
+      transition: background 0.15s;
+    }
+
+    .btn-start.on { background: #fff0f0; color: #e53935; }
+
+    .dot {
+      width: 10px; height: 10px;
+      border-radius: 50%;
+      background: #4caf50;
+    }
+    .btn-start.on .dot {
+      background: #e53935;
+      animation: blink 1s infinite;
+    }
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.2} }
+
+    .btn-icon {
+      border: none;
+      border-radius: 50%;
+      width: 46px; height: 46px;
+      font-size: 20px;
+      cursor: pointer;
+      background: #f5f5f5;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.12);
+      display: flex; align-items: center; justify-content: center;
+    }
+
+    .btn-lang {
+      border: none;
+      border-radius: 20px;
+      padding: 8px 14px;
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+      background: #e8f0ff;
+      color: #3366cc;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.12);
+      display: flex; align-items: center; gap: 4px;
+      white-space: nowrap;
+    }
+
+    .status {
+      font-size: 11px;
+      color: #aaa;
+      margin-top: 4px;
+      text-align: center;
+    }
+
+    .btn-layout {
+      border: none;
+      border-radius: 50%;
+      width: 46px; height: 46px;
+      font-size: 18px;
+      cursor: pointer;
+      background: #f5f5f5;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.12);
+      display: flex; align-items: center; justify-content: center;
+    }
+  </style>
+</head>
+<body>
+
+<div class="panels layout-lr" id="panels">
+  <div class="panel panel-en">
+    <div class="panel-label">🇺🇸 English</div>
+    <div class="scroll" id="enScroll">
+      <p class="placeholder">英語で話してください</p>
+    </div>
+  </div>
+  <div class="panel panel-ja">
+    <div class="panel-label">🇯🇵 日本語</div>
+    <div class="scroll" id="jaScroll">
+      <p class="placeholder">翻訳がここに表示されます</p>
+    </div>
+  </div>
+</div>
+
+<div class="controls">
+  <button class="btn-lang" id="btnInput" onclick="switchInput()">
+    <span id="inputLabel">🎤マイク</span>
+  </button>
+  <button class="btn-lang" id="btnLang" onclick="switchLang()">
+    <span id="langLabel">🇺🇸→🇯🇵</span>
+  </button>
+  <button class="btn-start" id="btnStart" onclick="toggle()">
+    <div class="dot"></div>
+    <span id="btnLabel">開始</span>
+  </button>
+  <button class="btn-icon" id="btnMute" onclick="toggleMute()">🎙️</button>
+  <button class="btn-icon" onclick="clearHistory()">🗑️</button>
+  <button class="btn-layout" id="btnLayout" onclick="switchLayout()" title="レイアウト切替">⬛</button>
+</div>
+<div class="status" id="status">待機中</div>
+
+<script>
+  const PORT = location.port;
+
+  let recording = false, muted = false;
+  let socket = null, audioCtx = null, processor = null, stream = null, sourceNode = null;
+  let curEn = null, curJa = null;
+  let currentTone = null;
+  let nextTone = 'blue';
+  let abortCtrl = null; // 翻訳リクエストキャンセル用
+  let langMode = 'en-ja'; // 'en-ja' or 'ja-en'
+  let inputMode = 'mic'; // 'mic' or 'browser'
+
+  async function toggle() {
+    recording ? stop() : await start();
+  }
+
+  async function start() {
+    try {
+      setStatus(inputMode === 'mic' ? 'マイク確認中...' : '共有タブ選択中...');
+      stream = await getInputStream();
+      bindStreamEnd(stream);
+
+      const isEnJa = langMode === 'en-ja';
+      const p = new URLSearchParams({
+        model: 'nova-3',
+        language: isEnJa ? 'en' : 'ja',
+        smart_format: 'true',
+        punctuate: 'true',
+        interim_results: 'true',
+        encoding: 'linear16',
+        sample_rate: '16000',
+        channels: '1',
+      });
+
+      socket = new WebSocket(`ws://localhost:${PORT}/listen?${p}`);
+
+      socket.onopen = () => {
+        recording = true;
+        setStatus('録音中…');
+        updateBtn();
+        startAudio();
+      };
+
+      socket.onmessage = async (e) => {
+        const text = e.data instanceof Blob ? await e.data.text() : e.data;
+        onResult(JSON.parse(text));
+      };
+
+      socket.onerror = () => { setStatus('接続エラー'); stop(); };
+      socket.onclose = () => { if (recording) { setStatus('切断'); stop(); } };
+
+    } catch (err) {
+      setStatus('エラー: ' + err.message);
+    }
+  }
+
+  async function getInputStream() {
+    if (inputMode === 'mic') {
+      return navigator.mediaDevices.getUserMedia({
+        audio: {
+          echoCancellation: true,
+          noiseSuppression: true,
+          autoGainControl: true,
+        }
+      });
+    }
+
+    const shared = await navigator.mediaDevices.getDisplayMedia({
+      video: true,
+      audio: true,
+    });
+    if (!shared.getAudioTracks().length) {
+      shared.getTracks().forEach(t => t.stop());
+      throw new Error('音声がありません（共有時に「タブの音声を共有」をON）');
+    }
+    return shared;
+  }
+
+  function bindStreamEnd(targetStream) {
+    targetStream.getTracks().forEach(track => {
+      track.onended = () => {
+        if (recording) {
+          setStatus('入力が終了しました');
+          stop();
+        }
+      };
+    });
+  }
+
+  function startAudio() {
+    audioCtx = new (window.AudioContext || window.webkitAudioContext)({ sampleRate: 16000 });
+    sourceNode = audioCtx.createMediaStreamSource(stream);
+    processor = audioCtx.createScriptProcessor(4096, 1, 1);
+    processor.onaudioprocess = (e) => {
+      if (!socket || socket.readyState !== WebSocket.OPEN || muted) return;
+      const f32 = e.inputBuffer.getChannelData(0);
+      const i16 = new Int16Array(f32.length);
+      for (let i = 0; i < f32.length; i++) i16[i] = Math.max(-32768, Math.min(32767, f32[i] * 32768));
+      socket.send(i16.buffer);
+    };
+    sourceNode.connect(processor);
+    processor.connect(audioCtx.destination);
+  }
+
+  function stop() {
+    recording = false; muted = false; curEn = null; curJa = null; currentTone = null;
+    if (abortCtrl) { abortCtrl.abort(); abortCtrl = null; }
+    sourceNode?.disconnect(); sourceNode = null;
+    processor?.disconnect(); processor = null;
+    audioCtx?.close(); audioCtx = null;
+    if (socket) { if (socket.readyState === WebSocket.OPEN) socket.send(JSON.stringify({type:'CloseStream'})); socket.close(); socket = null; }
+    stream?.getTracks().forEach(t => t.stop()); stream = null;
+    setStatus('待機中');
+    updateBtn();
+    document.getElementById('btnMute').textContent = '🎙️';
+    document.getElementById('btnMute').style.background = '#f5f5f5';
+  }
+
+  function onResult(data) {
+    if (data.type !== 'Results') return;
+    const transcript = data.channel?.alternatives?.[0]?.transcript;
+    if (!transcript) return;
+    const isFinal = data.is_final;
+
+    // langModeに応じて入力/翻訳パネルを決定
+    const isEnJa = langMode === 'en-ja';
+    const srcScroll = document.getElementById(isEnJa ? 'enScroll' : 'jaScroll');
+    const tgtScroll = document.getElementById(isEnJa ? 'jaScroll' : 'enScroll');
+    const srcClass  = isEnJa ? 'item-en' : 'item-ja';
+    const tgtClass  = isEnJa ? 'item-ja' : 'item-en';
+    const langpair  = isEnJa ? 'en|ja' : 'ja|en';
+
+    clearPlaceholder(srcScroll);
+    clearPlaceholder(tgtScroll);
+
+    if (!currentTone) currentTone = nextTone;
+    const toneClass = currentTone === 'blue' ? 'tone-blue' : 'tone-pink';
+
+    if (!curEn) { curEn = addItem(srcScroll, `${srcClass} ${toneClass}`); }
+    curEn.textContent = transcript;
+    curEn.classList.toggle('interim', !isFinal);
+    scrollBottom(srcScroll);
+
+    if (!curJa) { curJa = addItem(tgtScroll, `${tgtClass} ${toneClass} interim`); }
+    scrollBottom(tgtScroll);
+
+    const tgtItem = curJa;
+
+    // 確定テキストのみ翻訳（暫定中は表示だけ・訂正を待つ）
+    if (isFinal && transcript.trim()) {
+      if (abortCtrl) abortCtrl.abort();
+      abortCtrl = new AbortController();
+      doTranslate(transcript, tgtItem, tgtScroll, langpair, abortCtrl.signal);
+      nextTone = nextTone === 'blue' ? 'pink' : 'blue';
+      curEn = null; curJa = null; abortCtrl = null;
+      currentTone = null;
+    }
+  }
+
+  async function doTranslate(text, el, scroll, langpair, signal) {
+    if (!el) return;
+    const [sl, tl] = langpair.split('|');
+    try {
+      const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${sl}&tl=${tl}&dt=t&q=${encodeURIComponent(text)}`;
+      const res = await fetch(url, { signal });
+      const json = await res.json();
+      const translated = json?.[0]?.map(x => x?.[0]).filter(Boolean).join('');
+      if (el && el.isConnected) {
+        el.textContent = translated || '(翻訳失敗)';
+        el.classList.remove('interim');
+        scrollBottom(scroll);
+      }
+    } catch (e) {
+      if (e.name !== 'AbortError' && el && el.isConnected) el.textContent = '(翻訳エラー)';
+    }
+  }
+
+  function addItem(scroll, cls) {
+    const div = document.createElement('div');
+    div.className = 'item ' + cls;
+    scroll.appendChild(div);
+    return div;
+  }
+
+  function clearPlaceholder(scroll) {
+    const p = scroll.querySelector('.placeholder');
+    if (p) p.remove();
+  }
+
+  function scrollBottom(el) {
+    // 上下レイアウト時、上パネル（panel-en）は180度回転しているのでスクロール方向が逆
+    const isTB = document.getElementById('panels').classList.contains('layout-tb');
+    const enScroll = document.getElementById('enScroll');
+    if (isTB && el === enScroll) {
+      el.scrollTop = 0;
+    } else {
+      el.scrollTop = el.scrollHeight;
+    }
+  }
+
+  function toggleMute() {
+    if (!recording) return;
+    muted = !muted;
+    document.getElementById('btnMute').textContent = muted ? '🔇' : '🎙️';
+    document.getElementById('btnMute').style.background = muted ? '#fff0f0' : '#f5f5f5';
+    setStatus(muted ? 'ミュート中' : '録音中…');
+  }
+
+  function switchLang() {
+    if (recording) { stop(); }
+    langMode = langMode === 'en-ja' ? 'ja-en' : 'en-ja';
+    const isEnJa = langMode === 'en-ja';
+    document.getElementById('langLabel').textContent = isEnJa ? '🇺🇸→🇯🇵' : '🇯🇵→🇺🇸';
+    document.querySelector('.panel-en .panel-label').textContent = isEnJa ? '🇺🇸 English' : '🇺🇸 English（翻訳）';
+    document.querySelector('.panel-ja .panel-label').textContent = isEnJa ? '🇯🇵 日本語（翻訳）' : '🇯🇵 日本語';
+    // 進行中の行だけリセット（履歴は消さない）
+    curEn = null; curJa = null; currentTone = null;
+  }
+
+  function switchInput() {
+    if (recording) { stop(); }
+    inputMode = inputMode === 'mic' ? 'browser' : 'mic';
+    document.getElementById('inputLabel').textContent = inputMode === 'mic' ? '🎤マイク' : '🖥️ブラウザ音';
+    setStatus(inputMode === 'mic' ? '待機中（マイク入力）' : '待機中（ブラウザ音声入力）');
+  }
+
+  function clearHistory() {
+    const isEnJa = langMode === 'en-ja';
+    document.getElementById('enScroll').innerHTML = `<p class="placeholder">${isEnJa ? '英語で話してください' : '翻訳がここに表示されます'}</p>`;
+    document.getElementById('jaScroll').innerHTML = `<p class="placeholder">${isEnJa ? '翻訳がここに表示されます' : '日本語で話してください'}</p>`;
+    curEn = null; curJa = null; currentTone = null; nextTone = 'blue';
+  }
+
+  function updateBtn() {
+    const btn = document.getElementById('btnStart');
+    btn.classList.toggle('on', recording);
+    document.getElementById('btnLabel').textContent = recording ? '停止' : '開始';
+  }
+
+  function setStatus(msg) { document.getElementById('status').textContent = msg; }
+
+  // レイアウト切替
+  const LAYOUTS = [
+    { cls: 'layout-lr', icon: '◫',  label: '左右' },
+    { cls: 'layout-tb', icon: '⬓',  label: '上下' },
+  ];
+  let layoutIdx = 0;
+
+  function switchLayout() {
+    layoutIdx = (layoutIdx + 1) % LAYOUTS.length;
+    const panels = document.getElementById('panels');
+    LAYOUTS.forEach(l => panels.classList.remove(l.cls));
+    panels.classList.add(LAYOUTS[layoutIdx].cls);
+    document.getElementById('btnLayout').textContent = LAYOUTS[layoutIdx].icon;
+    document.getElementById('btnLayout').title = LAYOUTS[layoutIdx].label + 'レイアウト';
+  }
+</script>
+</body>
+</html>
