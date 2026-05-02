@@ -1,6 +1,6 @@
 // ローカル開発用サーバー
 // - 静的ファイル配信 (index.html)
-// - /api/token : Vercel の serverless 関数と同じく Deepgram の短命トークンを発行
+// - /api/token : Vercel と同じく Deepgram の短命APIキーを発行
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
@@ -16,27 +16,52 @@ const mimeTypes = {
   '.json': 'application/json',
 };
 
-async function handleToken(res) {
-  try {
-    const r = await fetch('https://api.deepgram.com/v1/auth/grant', {
-      method: 'POST',
-      headers: { Authorization: `Token ${API_KEY}` },
-    });
-    const body = await r.text();
-    res.writeHead(r.status, {
-      'Content-Type': 'application/json',
-      'Cache-Control': 'no-store',
-    });
-    res.end(body);
-  } catch (err) {
-    res.writeHead(500, { 'Content-Type': 'application/json' });
-    res.end(JSON.stringify({ error: err.message }));
+async function issueTempKey() {
+  const projectsRes = await fetch('https://api.deepgram.com/v1/projects', {
+    headers: { Authorization: `Token ${API_KEY}` },
+  });
+  if (!projectsRes.ok) {
+    const detail = await projectsRes.text();
+    return { error: { status: 502, body: { error: 'projects list failed', status: projectsRes.status, detail } } };
   }
+  const { projects } = await projectsRes.json();
+  if (!projects || !projects.length) {
+    return { error: { status: 500, body: { error: 'no projects' } } };
+  }
+  const project_id = projects[0].project_id;
+
+  const keyRes = await fetch(`https://api.deepgram.com/v1/projects/${project_id}/keys`, {
+    method: 'POST',
+    headers: { Authorization: `Token ${API_KEY}`, 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      comment: 'translation-app browser temp key',
+      scopes: ['usage:write'],
+      time_to_live_in_seconds: 60,
+    }),
+  });
+  if (!keyRes.ok) {
+    const detail = await keyRes.text();
+    return { error: { status: 502, body: { error: 'key creation failed', status: keyRes.status, detail } } };
+  }
+  const data = await keyRes.json();
+  return { ok: { key: data.key, expires_in: 60 } };
 }
 
-const httpServer = http.createServer((req, res) => {
+const httpServer = http.createServer(async (req, res) => {
   if (req.url.startsWith('/api/token')) {
-    handleToken(res);
+    try {
+      const result = await issueTempKey();
+      if (result.error) {
+        res.writeHead(result.error.status, { 'Content-Type': 'application/json' });
+        res.end(JSON.stringify(result.error.body));
+      } else {
+        res.writeHead(200, { 'Content-Type': 'application/json', 'Cache-Control': 'no-store' });
+        res.end(JSON.stringify(result.ok));
+      }
+    } catch (err) {
+      res.writeHead(500, { 'Content-Type': 'application/json' });
+      res.end(JSON.stringify({ error: err.message }));
+    }
     return;
   }
 

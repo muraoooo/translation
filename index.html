@@ -244,15 +244,14 @@
     recording ? stop() : await start();
   }
 
-  async function fetchDeepgramToken() {
+  async function fetchDeepgramKey() {
     const r = await fetch('/api/token', { method: 'POST' });
-    if (!r.ok) {
-      const detail = await r.text().catch(() => '');
-      throw new Error(`トークン取得失敗 (${r.status}) ${detail}`);
-    }
-    const data = await r.json();
-    if (!data.access_token) throw new Error('access_token が空です');
-    return data.access_token;
+    const text = await r.text();
+    if (!r.ok) throw new Error(`トークン取得失敗 (${r.status}) ${text.slice(0, 200)}`);
+    let data;
+    try { data = JSON.parse(text); } catch { throw new Error('JSON parse 失敗: ' + text.slice(0, 100)); }
+    if (!data.key) throw new Error('key が空です: ' + JSON.stringify(data));
+    return data.key;
   }
 
   async function start() {
@@ -262,7 +261,7 @@
       bindStreamEnd(stream);
 
       setStatus('認証中...');
-      const token = await fetchDeepgramToken();
+      const key = await fetchDeepgramKey();
 
       const isEnJa = langMode === 'en-ja';
       const p = new URLSearchParams({
@@ -276,8 +275,8 @@
         channels: '1',
       });
 
-      // Sec-WebSocket-Protocol で JWT を渡してDeepgramへ直接接続
-      socket = new WebSocket(`wss://api.deepgram.com/v1/listen?${p}`, ['bearer', token]);
+      // Sec-WebSocket-Protocol で短命APIキーを渡してDeepgramに直接接続
+      socket = new WebSocket(`wss://api.deepgram.com/v1/listen?${p}`, ['token', key]);
 
       socket.onopen = () => {
         recording = true;
@@ -291,8 +290,14 @@
         onResult(JSON.parse(text));
       };
 
-      socket.onerror = () => { setStatus('接続エラー'); stop(); };
-      socket.onclose = () => { if (recording) { setStatus('切断'); stop(); } };
+      socket.onerror = () => { /* close でまとめて扱う */ };
+      socket.onclose = (event) => {
+        if (recording || event.code !== 1000) {
+          const reason = event.reason ? ` "${event.reason}"` : '';
+          setStatus(`切断 code=${event.code}${reason}`);
+          stop({ keepStatus: true });
+        }
+      };
 
     } catch (err) {
       setStatus('エラー: ' + err.message);
@@ -348,7 +353,7 @@
     processor.connect(audioCtx.destination);
   }
 
-  function stop() {
+  function stop(opts = {}) {
     recording = false; muted = false; curEn = null; curJa = null; currentTone = null;
     if (abortCtrl) { abortCtrl.abort(); abortCtrl = null; }
     sourceNode?.disconnect(); sourceNode = null;
@@ -356,7 +361,7 @@
     audioCtx?.close(); audioCtx = null;
     if (socket) { if (socket.readyState === WebSocket.OPEN) socket.send(JSON.stringify({type:'CloseStream'})); socket.close(); socket = null; }
     stream?.getTracks().forEach(t => t.stop()); stream = null;
-    setStatus('待機中');
+    if (!opts.keepStatus) setStatus('待機中');
     updateBtn();
     document.getElementById('btnMute').textContent = '🎙️';
     document.getElementById('btnMute').style.background = '#f5f5f5';
