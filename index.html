@@ -3,6 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
   <title>EN → JA 翻訳</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -229,8 +231,6 @@
 <div class="status" id="status">待機中</div>
 
 <script>
-  const PORT = location.port;
-
   let recording = false, muted = false;
   let socket = null, audioCtx = null, processor = null, stream = null, sourceNode = null;
   let curEn = null, curJa = null;
@@ -244,11 +244,25 @@
     recording ? stop() : await start();
   }
 
+  async function fetchDeepgramToken() {
+    const r = await fetch('/api/token', { method: 'POST' });
+    if (!r.ok) {
+      const detail = await r.text().catch(() => '');
+      throw new Error(`トークン取得失敗 (${r.status}) ${detail}`);
+    }
+    const data = await r.json();
+    if (!data.access_token) throw new Error('access_token が空です');
+    return data.access_token;
+  }
+
   async function start() {
     try {
       setStatus(inputMode === 'mic' ? 'マイク確認中...' : '共有タブ選択中...');
       stream = await getInputStream();
       bindStreamEnd(stream);
+
+      setStatus('認証中...');
+      const token = await fetchDeepgramToken();
 
       const isEnJa = langMode === 'en-ja';
       const p = new URLSearchParams({
@@ -262,7 +276,8 @@
         channels: '1',
       });
 
-      socket = new WebSocket(`ws://localhost:${PORT}/listen?${p}`);
+      // Sec-WebSocket-Protocol で JWT を渡してDeepgramへ直接接続
+      socket = new WebSocket(`wss://api.deepgram.com/v1/listen?${p}`, ['bearer', token]);
 
       socket.onopen = () => {
         recording = true;
@@ -281,6 +296,7 @@
 
     } catch (err) {
       setStatus('エラー: ' + err.message);
+      stream?.getTracks().forEach(t => t.stop()); stream = null;
     }
   }
 
