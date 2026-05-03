@@ -41,3 +41,4 @@
 [10:11:10] en-ja browser: It means to completely destroy a building or structure.
 [10:11:12] en-ja browser: Now let's try a new word.
 [10:11:13] en-ja browser: Serendipity.
+[10:11:15] en-ja browser: Do you know what this means?
