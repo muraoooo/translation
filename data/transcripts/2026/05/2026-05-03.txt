@@ -22,3 +22,4 @@
 [10:09:11] en-ja browser: Got it.
 [10:09:13] en-ja browser: Let's keep going then.
 [10:09:25] en-ja browser: No. Not quite.
+[10:09:26] en-ja browser: Ephemeral
