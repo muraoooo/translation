@@ -128,3 +128,4 @@
 [10:27:15] en-ja browser: Japan is being ruled by something invisible or hidden.
 [10:27:17] en-ja browser: Is that what you meant?
 [10:27:18] en-ja browser: If so,
+[10:27:20] en-ja browser: what exactly are you referring to?
