@@ -59,3 +59,4 @@
 [10:13:19] en-ja browser: Just try to say something.
 [10:13:34] en-ja browser: Almost.
 [10:13:35] en-ja browser: Good try.
+[10:13:37] en-ja browser: The correct sentence is
