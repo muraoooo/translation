@@ -7,3 +7,4 @@
 [10:07:43] en-ja browser: Let's focus.
 [10:07:44] en-ja browser: Ephemeral.
 [10:07:46] en-ja browser: Try to guess the meaning in English.
+[10:07:46] en-ja browser: For example,
