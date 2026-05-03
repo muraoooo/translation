@@ -124,3 +124,4 @@
 [10:26:15] en-ja browser: Govern
 [10:26:17] en-ja browser: govern
 [10:27:08] en-ja browser: It sounds like you're trying to say
+[10:27:12] en-ja browser: Japan is being governed by some kind of shadow ruler,
