@@ -81,3 +81,4 @@
 [10:16:39] en-ja browser: instead of just flagging things.
 [10:16:41] en-ja browser: They post mostly about network security,
 [10:16:42] en-ja browser: AI in the SOC,
+[10:16:45] en-ja browser: threat detection trends, and industry news.
