@@ -249,3 +249,4 @@
 [10:38:07] en-ja browser: これは自然な英語で完璧です。つまり、
 [10:38:10] en-ja browser: または
 [10:38:11] en-ja browser: よくやった。
+[10:38:13] en-ja browser: これは正しいです。
