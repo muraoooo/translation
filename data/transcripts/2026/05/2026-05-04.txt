@@ -43,3 +43,4 @@
 [08:44:54] en-ja browser: Dyscoriche
 [08:45:05] en-ja browser: courage equals
 [08:45:06] en-ja browser: discourage.
+[08:45:17] en-ja browser: Wrong word.
