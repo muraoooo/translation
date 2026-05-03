@@ -14,3 +14,4 @@
 [10:08:31] en-ja browser: そうでない場合は、
 [10:08:33] en-ja browser: ただ言ってください、
 [10:09:11] en-ja browser: わかった。
+[10:09:14] en-ja browser: それでは続けましょう。
