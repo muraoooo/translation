@@ -123,3 +123,4 @@
 [10:25:24] en-ja browser: What exactly do you want to find?
 [10:26:15] en-ja browser: Govern
 [10:26:17] en-ja browser: govern
+[10:27:08] en-ja browser: It sounds like you're trying to say
