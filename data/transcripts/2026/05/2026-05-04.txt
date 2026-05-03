@@ -108,3 +108,4 @@
 [08:52:13] en-ja browser: Good.
 [08:52:18] en-ja browser: I'm a superstar who leaps over any obstacle.
 [08:52:20] en-ja browser: I'm a superstar
+[08:52:33] en-ja browser: Perfect.
