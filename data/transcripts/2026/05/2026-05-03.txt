@@ -216,3 +216,4 @@
 [10:34:35] en-ja browser: Weave means to put together different parts smoothly, like making a fabric.
 [10:34:37] en-ja browser: So weave a story equals
 [10:34:42] en-ja browser: Example.
+[10:34:44] en-ja browser: She really knows how to weave a good story.
