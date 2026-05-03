@@ -106,3 +106,4 @@
 [10:19:41] en-ja browser: Lowering default reasoning effort,
 [10:19:46] en-ja browser: a caching bug that made it forgetful, and a prompt tweak to make responses less verbose.
 [10:19:51] en-ja browser: All three affected Opus two, and they were only fully fixed around April 20.
+[10:19:54] en-ja browser: So Mac's users using OPUS weren't spared.
