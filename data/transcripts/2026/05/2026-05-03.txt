@@ -14,3 +14,4 @@
 [10:08:21] en-ja browser: Obtain a profit is okay, but we usually say make a profit.
 [10:08:24] en-ja browser: Or earn a profit more naturally. Now,
 [10:08:25] en-ja browser: let's move on.
+[10:08:26] en-ja browser: Ephemeral.
