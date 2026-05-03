@@ -76,3 +76,4 @@
 [08:49:07] en-ja browser: Leap, it's pronounced.
 [08:49:24] en-ja browser: No. That's not leap. You said leap.
 [08:49:27] en-ja browser: Like jumping high. It's pronounced
+[08:49:32] en-ja browser: leap. What you just said sounded like reap, which means to harvest.
