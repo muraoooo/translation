@@ -52,3 +52,4 @@
 [10:13:20] en-ja browser: ちょっと何か言ってみてください。
 [10:13:34] en-ja browser: ほとんど。
 [10:13:38] en-ja browser: 正しい文は
+[10:13:40] en-ja browser: Serendipityでこのカフェを見つけました。
