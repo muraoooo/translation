@@ -152,3 +152,4 @@
 [08:57:34] en-ja browser: I need to grasp the deep.
 [08:57:47] en-ja browser: No. No.
 [08:57:48] en-ja browser: I grasp.
+[08:57:50] en-ja browser: To the details.
