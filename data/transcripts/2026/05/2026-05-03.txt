@@ -27,3 +27,4 @@
 [10:09:38] en-ja browser: Got it.
 [10:09:42] en-ja browser: Hokkaido Tsuru wa Egode collapsed to Imas. Tatoeba,
 [10:09:48] en-ja browser: The company collapsed.
+[10:10:15] en-ja browser: Godzilla No, that's not correct.
