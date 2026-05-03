@@ -122,3 +122,4 @@
 [10:25:23] en-ja browser: give me a bit more context.
 [10:25:24] en-ja browser: What exactly do you want to find?
 [10:26:15] en-ja browser: Govern
+[10:26:17] en-ja browser: govern
