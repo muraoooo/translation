@@ -70,3 +70,4 @@
 [10:14:01] en-ja browser: Nostalgia.
 [10:14:03] en-ja browser: What does it mean?
 [10:14:04] en-ja browser: Try to explain in English.
+[10:14:17] en-ja browser: Close.
