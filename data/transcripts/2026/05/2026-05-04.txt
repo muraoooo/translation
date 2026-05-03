@@ -29,3 +29,4 @@
 [08:43:47] en-ja browser: Drug is drug
 [08:43:49] en-ja browser: also one syllable,
 [08:43:50] en-ja browser: but the vowel sound is different.
+[08:43:51] en-ja browser: More like
