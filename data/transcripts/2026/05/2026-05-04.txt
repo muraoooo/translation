@@ -147,3 +147,4 @@
 [08:57:10] en-ja browser: I need to grasp the details.
 [08:57:23] en-ja browser: Good. But
 [08:57:25] en-ja browser: one small fix.
+[08:57:28] en-ja browser: Shizenai Katawa I need to grasp the details.
