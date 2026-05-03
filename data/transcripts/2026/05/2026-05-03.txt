@@ -321,3 +321,4 @@
 [10:42:57] en-ja browser: for our office.
 [10:42:59] en-ja browser: This is correct and natural.
 [10:43:04] en-ja browser: Purchase is a bit formal, so native speakers often say buy instead.
+[10:43:08] en-ja browser: In daily conversation. He's going to buy a new computer for our office.
