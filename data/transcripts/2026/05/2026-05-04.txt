@@ -130,3 +130,4 @@
 [08:55:22] en-ja browser: grip
 [08:55:25] en-ja browser: grip a rope
 [08:55:29] en-ja browser: grip.
+[08:55:40] en-ja browser: Grip a chance.
