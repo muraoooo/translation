@@ -235,3 +235,4 @@
 [10:35:55] en-ja browser: Or simply deposit money in the bank.
 [10:35:57] en-ja browser: Which one do you wanna practice next?
 [10:36:21] en-ja browser: No. That's not quite right.
+[10:36:24] en-ja browser: Resist is close, but not the best word for Gamansur.
