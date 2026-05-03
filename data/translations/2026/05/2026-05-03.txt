@@ -230,3 +230,4 @@
 [10:36:33] en-ja browser: 許容する
 [10:36:35] en-ja browser: ガムの答えに等しい。
 [10:36:37] en-ja browser: 例。
+[10:36:40] en-ja browser: もうこの痛みには耐えられません。
