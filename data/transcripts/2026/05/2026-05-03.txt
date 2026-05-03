@@ -71,3 +71,4 @@
 [10:14:03] en-ja browser: What does it mean?
 [10:14:04] en-ja browser: Try to explain in English.
 [10:14:17] en-ja browser: Close.
+[10:14:19] en-ja browser: That's a good guess.
