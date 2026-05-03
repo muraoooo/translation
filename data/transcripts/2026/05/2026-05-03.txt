@@ -315,3 +315,4 @@
 [10:42:21] en-ja browser: drag the sled across the snow.
 [10:42:22] en-ja browser: Good job.
 [10:42:23] en-ja browser: Next word.
+[10:42:49] en-ja browser: Your sentence is not quite natural.
