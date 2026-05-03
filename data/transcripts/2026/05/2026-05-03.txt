@@ -254,3 +254,4 @@
 [10:37:26] en-ja browser: Which meaning do you wanna practice? Study even if it's difficult,
 [10:37:28] en-ja browser: or the feeling of resisting the urge to quit?
 [10:37:42] en-ja browser: Yes. Correct.
+[10:37:44] en-ja browser: Resist.
