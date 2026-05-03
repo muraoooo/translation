@@ -158,3 +158,4 @@
 [10:29:43] en-ja browser: But more natural would be
 [10:29:46] en-ja browser: question mark, engage the children in an activity,
 [10:29:47] en-ja browser: or
+[10:29:50] en-ja browser: get the children engaged in the activity
