@@ -94,3 +94,4 @@
 [10:18:11] en-ja browser: They rolled out a big update to make Claude smarter, but it actually made the model worse at coding.
 [10:18:16] en-ja browser: Especially on complex tasks. A lot of developers noticed it immediately,
 [10:18:18] en-ja browser: and were pretty vocal about it.
+[10:18:21] en-ja browser: Anthropic has since acknowledged the regression and is working on fixing it.
