@@ -143,3 +143,4 @@
 [10:28:32] en-ja browser: The security alliance is extremely deep.
 [10:28:35] en-ja browser: US troops are still stationed in Japan,
 [10:28:38] en-ja browser: The two countries were in joint military exercises.
+[10:28:43] en-ja browser: And Japan's defense policy has historically moved in
