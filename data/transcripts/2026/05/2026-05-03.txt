@@ -64,3 +64,4 @@
 [10:13:43] en-ja browser: By serendipity means you found it by happy accident.
 [10:13:46] en-ja browser: Now, let's move on to the next word.
 [10:13:47] en-ja browser: Nostalgia.
+[10:13:48] en-ja browser: What does this word mean?
