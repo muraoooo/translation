@@ -355,3 +355,4 @@
 [10:45:37] en-ja browser: He's not being kind.
 [10:45:40] en-ja browser: He's just discouraging me to keep me under control.
 [10:45:42] en-ja browser: This sounds much more natural.
+[10:45:45] en-ja browser: Would you like me to make it a little stronger or softer?
