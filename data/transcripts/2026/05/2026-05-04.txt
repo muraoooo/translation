@@ -158,3 +158,4 @@
 [08:58:12] en-ja browser: Grasp the details.
 [08:58:23] en-ja browser: Good.
 [08:58:25] en-ja browser: Now say the full sentence.
+[08:58:27] en-ja browser: I need to grasp the details.
