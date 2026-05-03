@@ -53,3 +53,4 @@
 [10:13:34] en-ja browser: ほとんど。
 [10:13:38] en-ja browser: 正しい文は
 [10:13:40] en-ja browser: Serendipityでこのカフェを見つけました。
+[10:13:44] en-ja browser: セレンディピティとは、幸せな偶然によってそれを見つけたという意味です。
