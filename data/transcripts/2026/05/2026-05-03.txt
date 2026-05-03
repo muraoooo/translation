@@ -54,3 +54,4 @@
 [10:13:08] en-ja browser: Was a bit messy.
 [10:13:09] en-ja browser: Try again.
 [10:13:10] en-ja browser: Simpler this time.
+[10:13:13] en-ja browser: Can you make one easy sentence with serendipity?
