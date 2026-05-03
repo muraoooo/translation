@@ -30,3 +30,4 @@
 [10:10:15] en-ja browser: Godzilla No, that's not correct.
 [10:10:18] en-ja browser: We don't say Godzilla collapsed the building.
 [10:10:19] en-ja browser: Instead, we say
+[10:10:24] en-ja browser: Godzilla destroyed the building or Godzilla knocked down the building.
