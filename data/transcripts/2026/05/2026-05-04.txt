@@ -1,3 +1,4 @@
 [08:39:12] en-ja browser: That's a funny way to say you're broke.
 [08:39:13] en-ja browser: You could also say,
 [08:39:15] en-ja browser: I'd love to make a deposit, but I'm completely broke.
+[08:39:16] en-ja browser: Sounds more natural.
