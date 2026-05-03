@@ -250,3 +250,4 @@
 [10:37:15] en-ja browser: Here's a natural sentence.
 [10:37:16] en-ja browser: I will study languages even if it's hard.
 [10:37:18] en-ja browser: If you really wanna use resist,
+[10:37:22] en-ja browser: it would be, I will resist giving up on studying languages.
