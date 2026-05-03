@@ -362,3 +362,4 @@
 [10:46:02] en-ja browser: One small fix.
 [10:46:03] en-ja browser: After he,
 [10:46:06] en-ja browser: With s.
+[10:46:07] en-ja browser: Not discourage.
