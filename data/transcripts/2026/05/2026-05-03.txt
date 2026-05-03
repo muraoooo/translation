@@ -345,3 +345,4 @@
 [10:44:52] en-ja browser: Want to try another sentence using discourage?
 [10:45:05] en-ja browser: Here's a natural way to say it.
 [10:45:08] en-ja browser: Don't discourage me just to control me.
+[10:45:10] en-ja browser: That's not kindness.
