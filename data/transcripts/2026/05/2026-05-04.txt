@@ -101,3 +101,4 @@
 [08:51:40] en-ja browser: Good.
 [08:51:42] en-ja browser: Now say this one smoothly.
 [08:51:45] en-ja browser: I'm a superstar who leaps over any obstacle.
+[08:51:55] en-ja browser: I'm a superstar who leaps over any obstacle.
