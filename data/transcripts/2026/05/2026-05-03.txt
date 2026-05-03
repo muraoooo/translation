@@ -55,3 +55,4 @@
 [10:13:09] en-ja browser: Try again.
 [10:13:10] en-ja browser: Simpler this time.
 [10:13:13] en-ja browser: Can you make one easy sentence with serendipity?
+[10:13:17] en-ja browser: For example, I found this cafe by Serendipity.
