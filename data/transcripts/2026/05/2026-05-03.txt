@@ -247,3 +247,4 @@
 [10:36:46] en-ja browser: Lay
 [10:36:49] en-ja browser: resist temptation equals
 [10:36:52] en-ja browser: Want to try making a sentence with endure?
+[10:37:15] en-ja browser: Here's a natural sentence.
