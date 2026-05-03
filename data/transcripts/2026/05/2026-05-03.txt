@@ -16,3 +16,4 @@
 [10:08:25] en-ja browser: let's move on.
 [10:08:26] en-ja browser: Ephemeral.
 [10:08:28] en-ja browser: Do you know this one?
+[10:08:30] en-ja browser: Try to explain it in English.
