@@ -246,3 +246,4 @@
 [10:36:45] en-ja browser: Resist is usually used when you actively fight against something.
 [10:36:46] en-ja browser: Lay
 [10:36:49] en-ja browser: resist temptation equals
+[10:36:52] en-ja browser: Want to try making a sentence with endure?
