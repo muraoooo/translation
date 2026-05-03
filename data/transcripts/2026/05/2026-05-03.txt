@@ -32,3 +32,4 @@
 [10:10:19] en-ja browser: Instead, we say
 [10:10:24] en-ja browser: Godzilla destroyed the building or Godzilla knocked down the building.
 [10:10:29] en-ja browser: Collapsed is usually used when something falls down by itself.
+[10:10:30] en-ja browser: Not by someone else's action.
