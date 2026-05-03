@@ -199,3 +199,4 @@
 [10:32:49] en-ja browser: I associate hard work with success.
 [10:32:52] en-ja browser: Do you want me to give you more example sentences using associate?
 [10:33:22] en-ja browser: Natural way to say it,
+[10:33:24] en-ja browser: I associate AI knowledge with the economy.
