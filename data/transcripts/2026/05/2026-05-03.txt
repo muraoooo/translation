@@ -164,3 +164,4 @@
 [10:30:11] en-ja browser: Engage a new employee,
 [10:30:16] en-ja browser: Onboard a new employee.
 [10:30:18] en-ja browser: Get a new employee up to speed.
+[10:30:21] en-ja browser: Help a new employee settle in.
