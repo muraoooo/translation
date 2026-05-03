@@ -44,3 +44,4 @@
 [08:45:05] en-ja browser: courage equals
 [08:45:06] en-ja browser: discourage.
 [08:45:17] en-ja browser: Wrong word.
+[08:45:19] en-ja browser: You probably wanted to say disappointed.
