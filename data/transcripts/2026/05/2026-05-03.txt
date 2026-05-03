@@ -290,3 +290,4 @@
 [10:40:49] en-ja browser: Natural sentence. Many problems emerge when you start a new project.
 [10:40:50] en-ja browser: Or shorter,
 [10:40:52] en-ja browser: New challenges emerge every day.
+[10:40:55] en-ja browser: Would you like me to give you more example sentences using emerge?
