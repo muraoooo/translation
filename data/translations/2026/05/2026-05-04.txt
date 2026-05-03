@@ -145,3 +145,4 @@
 [08:57:47] en-ja browser: いいえ、いいえ。
 [08:57:49] en-ja browser: 分かりました。
 [08:57:51] en-ja browser: 詳細へ。
+[08:57:57] en-ja browser: 詳細を把握する必要がある。
