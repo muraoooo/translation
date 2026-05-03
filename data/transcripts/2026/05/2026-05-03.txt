@@ -293,3 +293,4 @@
 [10:40:55] en-ja browser: Would you like me to give you more example sentences using emerge?
 [10:41:06] en-ja browser: Good.
 [10:41:07] en-ja browser: You're doing well.
+[10:41:09] en-ja browser: Here's a natural full sentence.
