@@ -17,3 +17,4 @@
 [10:09:14] en-ja browser: それでは続けましょう。
 [10:09:26] en-ja browser: いいえ、そうではありません。
 [10:09:30] en-ja browser: その通り。
+[10:09:38] en-ja browser: わかった。
