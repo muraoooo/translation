@@ -240,3 +240,4 @@
 [10:36:30] en-ja browser: Endure equals Gamuncer.
 [10:36:33] en-ja browser: Tolerate
 [10:36:34] en-ja browser: equals gum answer.
+[10:36:37] en-ja browser: Examples.
