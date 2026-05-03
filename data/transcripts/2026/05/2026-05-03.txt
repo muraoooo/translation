@@ -221,3 +221,4 @@
 [10:35:09] en-ja browser: Natural way.
 [10:35:11] en-ja browser: Extend a rope from tree to tree.
 [10:35:13] en-ja browser: That's correct and natural.
+[10:35:17] en-ja browser: stretch your rope between two trees.
