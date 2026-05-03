@@ -180,3 +180,4 @@
 [10:31:29] en-ja browser: Justify is the correct word. It means to show that
 [10:31:32] en-ja browser: someone's action or behavior is right or reasonable. Example,
 [10:31:33] en-ja browser: he tried to justify his mistake.
+[10:31:35] en-ja browser: Nothing can justify violence.
