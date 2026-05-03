@@ -50,3 +50,4 @@
 [10:11:47] en-ja browser: meeting you was pure serendipity.
 [10:11:49] en-ja browser: Try to make a sentence with serendipity.
 [10:12:09] en-ja browser: A bit late. Yes.
+[10:12:10] en-ja browser: Try to make one sentence using serendipity.
