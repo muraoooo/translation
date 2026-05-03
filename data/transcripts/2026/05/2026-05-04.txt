@@ -50,3 +50,4 @@
 [08:45:28] en-ja browser: I'm disappointed by the news, I'm discouraged by the bad news,
 [08:46:01] en-ja browser: I'm disappointed by the news because human jobs are being replaced by AI.
 [08:46:04] en-ja browser: And the knowledge I learned yesterday is already becoming outdated.
+[08:46:09] en-ja browser: I'm kinda discouraged
