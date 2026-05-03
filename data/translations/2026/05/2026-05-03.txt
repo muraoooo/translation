@@ -254,3 +254,4 @@
 [10:38:29] en-ja browser: はい。
 [10:38:30] en-ja browser: それは正しいです。
 [10:38:32] en-ja browser: または
+[10:38:33] en-ja browser: 手段を批判する
