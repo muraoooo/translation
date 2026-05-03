@@ -227,3 +227,4 @@
 [10:35:24] en-ja browser: But stretch or run sounds a bit more natural in this situation.
 [10:35:26] en-ja browser: Want to make a full sentence with it?
 [10:35:41] en-ja browser: Natural way to say it.
+[10:35:43] en-ja browser: I deposited money in the bank.
