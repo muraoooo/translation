@@ -186,3 +186,4 @@
 [10:31:52] en-ja browser: Here's a natural way to say it.
 [10:31:56] en-ja browser: My mom was too tired to justify her mistake.
 [10:32:00] en-ja browser: Or even better, my mom was too tired to explain her mistake.
+[10:32:04] en-ja browser: Justify works, but explain sounds more natural in this situation.
