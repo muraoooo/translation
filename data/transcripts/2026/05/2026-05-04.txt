@@ -114,3 +114,4 @@
 [08:53:13] en-ja browser: Good.
 [08:53:27] en-ja browser: Here's a natural way to say it.
 [08:53:32] en-ja browser: I've worked so hard and I'm so capable that everyone in the world should invest
+[08:53:33] en-ja browser: in me.
