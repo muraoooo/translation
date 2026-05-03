@@ -225,3 +225,4 @@
 [10:35:19] en-ja browser: Run a rope from one tree to another,
 [10:35:21] en-ja browser: Extend works.
 [10:35:24] en-ja browser: But stretch or run sounds a bit more natural in this situation.
+[10:35:26] en-ja browser: Want to make a full sentence with it?
