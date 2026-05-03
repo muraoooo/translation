@@ -19,3 +19,4 @@
 [10:08:30] en-ja browser: Try to explain it in English.
 [10:08:31] en-ja browser: If not,
 [10:08:33] en-ja browser: I don't know.
+[10:09:11] en-ja browser: Got it.
