@@ -302,3 +302,4 @@
 [10:41:37] en-ja browser: Here's the natural way to say it.
 [10:41:39] en-ja browser: Drag the sled through the snow.
 [10:41:41] en-ja browser: Or more naturally,
+[10:41:43] en-ja browser: drag the sled across the snow
