@@ -238,3 +238,4 @@
 [10:36:24] en-ja browser: Resist is close, but not the best word for Gamansur.
 [10:36:28] en-ja browser: The most natural word is endure or tolerate.
 [10:36:30] en-ja browser: Endure equals Gamuncer.
+[10:36:33] en-ja browser: Tolerate
