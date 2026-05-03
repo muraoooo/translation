@@ -51,3 +51,4 @@
 [08:46:01] en-ja browser: I'm disappointed by the news because human jobs are being replaced by AI.
 [08:46:04] en-ja browser: And the knowledge I learned yesterday is already becoming outdated.
 [08:46:09] en-ja browser: I'm kinda discouraged
+[08:46:12] en-ja browser: because AI is replacing what humans can do, and the stuff I learned one day is already out
