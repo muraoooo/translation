@@ -28,3 +28,4 @@
 [08:43:45] en-ja browser: With a hard g at the end.
 [08:43:47] en-ja browser: Drug is drug
 [08:43:49] en-ja browser: also one syllable,
+[08:43:50] en-ja browser: but the vowel sound is different.
