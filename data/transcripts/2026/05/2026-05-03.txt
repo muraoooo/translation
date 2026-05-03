@@ -375,3 +375,4 @@
 [10:46:47] en-ja browser: The word is
 [10:46:49] en-ja browser: Not courage.
 [10:46:50] en-ja browser: Try again.
+[10:47:06] en-ja browser: Yes. Much better.
