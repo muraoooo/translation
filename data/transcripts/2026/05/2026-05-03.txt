@@ -162,3 +162,4 @@
 [10:29:54] en-ja browser: The verb engage here means to draw their attention and get them actively involved.
 [10:29:58] en-ja browser: Want me to give you more example sentences using engage?
 [10:30:11] en-ja browser: Engage a new employee,
+[10:30:16] en-ja browser: Onboard a new employee.
