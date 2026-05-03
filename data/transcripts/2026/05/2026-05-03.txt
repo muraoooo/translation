@@ -228,3 +228,4 @@
 [10:35:26] en-ja browser: Want to make a full sentence with it?
 [10:35:41] en-ja browser: Natural way to say it.
 [10:35:43] en-ja browser: I deposited money in the bank.
+[10:35:44] en-ja browser: Or
