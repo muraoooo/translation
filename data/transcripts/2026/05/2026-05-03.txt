@@ -166,3 +166,4 @@
 [10:30:18] en-ja browser: Get a new employee up to speed.
 [10:30:21] en-ja browser: Help a new employee settle in.
 [10:30:24] en-ja browser: Engage the new employee in team activities.
+[10:30:25] en-ja browser: Midaini.
