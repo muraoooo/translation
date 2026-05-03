@@ -60,3 +60,4 @@
 [10:13:34] en-ja browser: Almost.
 [10:13:35] en-ja browser: Good try.
 [10:13:37] en-ja browser: The correct sentence is
+[10:13:39] en-ja browser: I found this cafe by Serendipity.
