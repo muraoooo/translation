@@ -78,3 +78,4 @@
 [10:14:31] en-ja browser: Can you make one sentence using nostalgia?
 [10:16:01] en-ja browser: Corelight,
 [10:16:38] en-ja browser: at Corelite underscore inc is a cybersecurity company that builds an open NDR platform, network detection and response. They turn raw network traffic into structured high quality logs and evidence that power AI driven threat investigations, and SOC workflows. It's built on open source tools like Zeke, formerly Bro, and they emphasize explainable or transparent AI rather than black box models. Their recent agentic triage product uses AI to automatically investigate alerts, pull context, and give analysts evidence backed verdicts
+[10:16:39] en-ja browser: instead of just flagging things.
