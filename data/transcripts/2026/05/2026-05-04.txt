@@ -154,3 +154,4 @@
 [08:57:48] en-ja browser: I grasp.
 [08:57:50] en-ja browser: To the details.
 [08:57:57] en-ja browser: I need to grasp the details.
+[08:58:08] en-ja browser: I need to grasp the details.
