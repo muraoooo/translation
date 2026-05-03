@@ -220,3 +220,4 @@
 [10:34:46] en-ja browser: Want to try another word?
 [10:35:09] en-ja browser: Natural way.
 [10:35:11] en-ja browser: Extend a rope from tree to tree.
+[10:35:13] en-ja browser: That's correct and natural.
