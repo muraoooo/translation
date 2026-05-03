@@ -128,3 +128,4 @@
 [10:28:02] en-ja browser: それは何だと思いますか？
 [10:28:03] en-ja browser: 官僚制、
 [10:28:04] en-ja browser: 米国？
+[10:28:06] en-ja browser: 大企業か、それとも別の何か？
