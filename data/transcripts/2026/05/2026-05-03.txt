@@ -272,3 +272,4 @@
 [10:39:07] en-ja browser: YouTubers criticize the Japanese government.
 [10:39:11] en-ja browser: Or more naturally, many YouTubers criticize the Japanese government.
 [10:39:14] en-ja browser: Would you like me to give you a few different ways to say this?
+[10:39:28] en-ja browser: Good. But one small correction.
