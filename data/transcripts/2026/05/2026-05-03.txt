@@ -280,3 +280,4 @@
 [10:39:53] en-ja browser: Give me a Japanese word or phrase you want to learn.
 [10:39:55] en-ja browser: And I'll teach you the natural English way to say it.
 [10:39:56] en-ja browser: What's next?
+[10:40:13] en-ja browser: Emerge Wakotskymus. Emerge equals
