@@ -158,3 +158,4 @@
 [08:59:00] en-ja browser: 次のことに焦点を移しましょう。
 [08:59:03] en-ja browser: に注意を移す
 [08:59:17] en-ja browser: 彼の
+[08:59:22] en-ja browser: に注意を移す
