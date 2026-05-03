@@ -210,3 +210,4 @@
 [10:33:59] en-ja browser: Wanna try making a full sentence with that?
 [10:34:22] en-ja browser: Wave or story is not a correct English phrase.
 [10:34:24] en-ja browser: Think you're trying to say
+[10:34:27] en-ja browser: Correct way.
