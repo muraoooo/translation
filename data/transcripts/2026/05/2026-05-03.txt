@@ -214,3 +214,4 @@
 [10:34:28] en-ja browser: Weave a story.
 [10:34:30] en-ja browser: That's the natural phrase.
 [10:34:35] en-ja browser: Weave means to put together different parts smoothly, like making a fabric.
+[10:34:37] en-ja browser: So weave a story equals
