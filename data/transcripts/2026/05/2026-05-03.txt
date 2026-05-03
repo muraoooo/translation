@@ -141,3 +141,4 @@
 [10:28:26] en-ja browser: Yes,
 [10:28:29] en-ja browser: Japan is the most important US ally in Asia.
 [10:28:32] en-ja browser: The security alliance is extremely deep.
+[10:28:35] en-ja browser: US troops are still stationed in Japan,
