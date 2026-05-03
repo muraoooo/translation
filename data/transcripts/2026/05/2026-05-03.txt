@@ -318,3 +318,4 @@
 [10:42:49] en-ja browser: Your sentence is not quite natural.
 [10:42:49] en-ja browser: Here's the correct and natural way to say it.
 [10:42:56] en-ja browser: natural correction. He is going to purchase a new computer
+[10:42:57] en-ja browser: for our office.
