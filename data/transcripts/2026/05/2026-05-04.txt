@@ -87,3 +87,4 @@
 [08:49:52] en-ja browser: Leap.
 [08:50:02] en-ja browser: No. That's reap. You want leap.
 [08:50:03] en-ja browser: Leap,
+[08:50:04] en-ja browser: Leap at the Kanji.
