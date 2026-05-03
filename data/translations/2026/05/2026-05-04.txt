@@ -20,3 +20,4 @@
 [08:42:23] en-ja browser: それは何ですか
 [08:43:07] en-ja browser: 雪の中を通って麻薬が売られる。
 [08:43:25] en-ja browser: 雪の中を売られて、
+[08:43:26] en-ja browser: ドラッグ
