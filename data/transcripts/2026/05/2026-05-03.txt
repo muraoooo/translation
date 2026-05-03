@@ -233,3 +233,4 @@
 [10:35:49] en-ja browser: Deposit money in the bank is grammatically okay
 [10:35:53] en-ja browser: but native speakers usually say deposit money into the bank.
 [10:35:55] en-ja browser: Or simply deposit money in the bank.
+[10:35:57] en-ja browser: Which one do you wanna practice next?
