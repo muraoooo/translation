@@ -73,3 +73,4 @@
 [10:14:17] en-ja browser: Close.
 [10:14:19] en-ja browser: That's a good guess.
 [10:14:24] en-ja browser: Nostalgia means a feeling of pleasure and sadness
+[10:14:27] en-ja browser: when you remember happy times from the past. For example,
