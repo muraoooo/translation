@@ -261,3 +261,4 @@
 [10:38:06] en-ja browser: This is perfect in natural English. It means
 [10:38:09] en-ja browser: or
 [10:38:12] en-ja browser: This one is correct.
+[10:38:14] en-ja browser: Want to try another sentence?
