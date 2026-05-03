@@ -96,3 +96,4 @@
 [10:18:18] en-ja browser: and were pretty vocal about it.
 [10:18:21] en-ja browser: Anthropic has since acknowledged the regression and is working on fixing it.
 [10:18:26] en-ja browser: It's one of the more honest we broke it statements I've seen from a frontier lab lately.
+[10:18:28] en-ja browser: Want the details, or is that enough?
