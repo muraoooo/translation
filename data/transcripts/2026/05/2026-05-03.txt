@@ -296,3 +296,4 @@
 [10:41:09] en-ja browser: Here's a natural full sentence.
 [10:41:11] en-ja browser: New challenges emerge every day.
 [10:41:12] en-ja browser: And it's very hard.
+[10:41:13] en-ja browser: You can also say,
