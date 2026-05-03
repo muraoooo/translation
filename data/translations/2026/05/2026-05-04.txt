@@ -24,3 +24,4 @@
 [08:43:43] en-ja browser: ドラッグはドラッグと発音します。
 [08:43:45] en-ja browser: 1音節。
 [08:43:47] en-ja browser: 最後にハードGが付きます。
+[08:43:48] en-ja browser: 薬は薬だ
