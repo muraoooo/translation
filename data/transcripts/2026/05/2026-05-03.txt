@@ -172,3 +172,4 @@
 [10:30:55] en-ja browser: destiny will own the action.
 [10:30:58] en-ja browser: But honestly, even that sounds strange.
 [10:31:01] en-ja browser: A more natural sentence would be,
+[10:31:03] en-ja browser: destiny will determine the action.
