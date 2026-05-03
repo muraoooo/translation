@@ -153,3 +153,4 @@
 [08:58:27] en-ja browser: 詳細を把握する必要がある。
 [08:58:34] en-ja browser: 良い。
 [08:58:37] en-ja browser: 詳細を把握する必要がある。
+[08:58:51] en-ja browser: に注意を移す
