@@ -327,3 +327,4 @@
 [10:43:41] en-ja browser: Correct natural sentence.
 [10:43:44] en-ja browser: He's gonna buy a new computer for our office.
 [10:43:46] en-ja browser: This is perfect in natural English.
+[10:43:48] en-ja browser: Return the lint you a steinere,
