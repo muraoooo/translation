@@ -271,3 +271,4 @@
 [10:39:04] en-ja browser: Correct sentence would be,
 [10:39:07] en-ja browser: YouTubers criticize the Japanese government.
 [10:39:11] en-ja browser: Or more naturally, many YouTubers criticize the Japanese government.
+[10:39:14] en-ja browser: Would you like me to give you a few different ways to say this?
