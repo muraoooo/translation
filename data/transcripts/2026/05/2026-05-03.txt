@@ -187,3 +187,4 @@
 [10:31:56] en-ja browser: My mom was too tired to justify her mistake.
 [10:32:00] en-ja browser: Or even better, my mom was too tired to explain her mistake.
 [10:32:04] en-ja browser: Justify works, but explain sounds more natural in this situation.
+[10:32:06] en-ja browser: Want to try another sentence?
