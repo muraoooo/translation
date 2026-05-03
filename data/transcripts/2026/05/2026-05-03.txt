@@ -188,3 +188,4 @@
 [10:32:00] en-ja browser: Or even better, my mom was too tired to explain her mistake.
 [10:32:04] en-ja browser: Justify works, but explain sounds more natural in this situation.
 [10:32:06] en-ja browser: Want to try another sentence?
+[10:32:19] en-ja browser: Connect,
