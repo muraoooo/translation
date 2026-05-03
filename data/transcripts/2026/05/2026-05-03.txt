@@ -168,3 +168,4 @@
 [10:30:24] en-ja browser: Engage the new employee in team activities.
 [10:30:25] en-ja browser: Midaini.
 [10:30:49] en-ja browser: Destiny Will Oms action.
+[10:30:53] en-ja browser: The correct way to say it is,
