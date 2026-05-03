@@ -101,3 +101,4 @@
 [10:19:59] en-ja browser: 特に複雑なタスクでは。
 [10:20:02] en-ja browser: 問題は 1 つのプランやモデルに限定されたものではありませんでした。
 [10:22:49] ja-en mic: Japanese
+[10:22:57] ja-en mic: Is that so?
