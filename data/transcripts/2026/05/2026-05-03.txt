@@ -90,3 +90,4 @@
 [10:17:06] en-ja browser: it might be a misremembered name.
 [10:17:08] en-ja browser: Want me to dig for the actual one?
 [10:18:04] en-ja browser: Anthropics just admitted
+[10:18:06] en-ja browser: Claude's coding quality dropped a lot in late March through April.
