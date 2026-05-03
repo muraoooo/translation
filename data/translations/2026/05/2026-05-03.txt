@@ -179,3 +179,4 @@
 [10:32:05] en-ja browser: Justify は機能しますが、この状況では Explain の方が自然です。
 [10:32:07] en-ja browser: 別の文を試してみますか?
 [10:32:19] en-ja browser: 接続する、
+[10:32:22] en-ja browser: メタバリンク。
