@@ -339,3 +339,4 @@
 [10:44:39] en-ja browser: Here's a natural way to say it.
 [10:44:41] en-ja browser: Don't discourage my mother.
 [10:44:42] en-ja browser: Or more naturally,
+[10:44:44] en-ja browser: don't discourage my mom.
