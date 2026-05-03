@@ -62,3 +62,4 @@
 [10:13:37] en-ja browser: The correct sentence is
 [10:13:39] en-ja browser: I found this cafe by Serendipity.
 [10:13:43] en-ja browser: By serendipity means you found it by happy accident.
+[10:13:46] en-ja browser: Now, let's move on to the next word.
