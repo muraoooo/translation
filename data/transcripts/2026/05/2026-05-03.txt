@@ -278,3 +278,4 @@
 [10:39:42] en-ja browser: Want to try making another sentence?
 [10:39:50] en-ja browser: Got it.
 [10:39:53] en-ja browser: Give me a Japanese word or phrase you want to learn.
+[10:39:55] en-ja browser: And I'll teach you the natural English way to say it.
