@@ -340,3 +340,4 @@
 [10:44:41] en-ja browser: Don't discourage my mother.
 [10:44:42] en-ja browser: Or more naturally,
 [10:44:44] en-ja browser: don't discourage my mom.
+[10:44:46] en-ja browser: Your sentence was pretty close.
