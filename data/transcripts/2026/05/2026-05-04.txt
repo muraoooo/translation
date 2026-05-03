@@ -12,3 +12,4 @@
 [08:40:36] en-ja browser: Got it.
 [08:40:39] en-ja browser: From now on, I'll respond naturally in English like we're having a real conversation.
 [08:40:40] en-ja browser: Just talk to me.
+[08:40:53] en-ja browser: Criticize.
