@@ -105,3 +105,4 @@
 [10:23:15] ja-en mic: Something
 [10:23:19] ja-en mic: I'm speaking Japanese though.
 [10:25:07] en-ja browser: 自由の快適さを定義します。
+[10:25:10] en-ja browser: それは標準的なフレーズや慣用句ではないと思います。
