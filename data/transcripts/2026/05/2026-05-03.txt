@@ -266,3 +266,4 @@
 [10:38:32] en-ja browser: Criticize means
 [10:38:35] en-ja browser: Natural example.
 [10:38:37] en-ja browser: He always criticizes other people.
+[10:38:39] en-ja browser: Stop criticizing me.
