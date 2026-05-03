@@ -366,3 +366,4 @@
 [10:46:09] en-ja browser: Want to try saying the full sentence?
 [10:46:22] en-ja browser: Correct sentence.
 [10:46:25] en-ja browser: He just discourages me to keep me under control.
+[10:46:27] en-ja browser: You curly it, Tamite.
