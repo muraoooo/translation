@@ -251,3 +251,4 @@
 [10:37:16] en-ja browser: I will study languages even if it's hard.
 [10:37:18] en-ja browser: If you really wanna use resist,
 [10:37:22] en-ja browser: it would be, I will resist giving up on studying languages.
+[10:37:26] en-ja browser: Which meaning do you wanna practice? Study even if it's difficult,
