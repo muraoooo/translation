@@ -250,3 +250,4 @@
 [10:38:10] en-ja browser: または
 [10:38:11] en-ja browser: よくやった。
 [10:38:13] en-ja browser: これは正しいです。
+[10:38:14] en-ja browser: 別の文を試してみますか?
