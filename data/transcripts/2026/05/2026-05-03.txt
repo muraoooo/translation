@@ -196,3 +196,4 @@
 [10:32:42] en-ja browser: I associate a with b.
 [10:32:45] en-ja browser: People often associate these two things.
 [10:32:46] en-ja browser: Example.
+[10:32:49] en-ja browser: I associate hard work with success.
