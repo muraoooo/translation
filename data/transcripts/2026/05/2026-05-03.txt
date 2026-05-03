@@ -197,3 +197,4 @@
 [10:32:45] en-ja browser: People often associate these two things.
 [10:32:46] en-ja browser: Example.
 [10:32:49] en-ja browser: I associate hard work with success.
+[10:32:52] en-ja browser: Do you want me to give you more example sentences using associate?
