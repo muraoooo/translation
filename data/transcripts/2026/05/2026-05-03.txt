@@ -127,3 +127,4 @@
 [10:27:12] en-ja browser: Japan is being governed by some kind of shadow ruler,
 [10:27:15] en-ja browser: Japan is being ruled by something invisible or hidden.
 [10:27:17] en-ja browser: Is that what you meant?
+[10:27:18] en-ja browser: If so,
