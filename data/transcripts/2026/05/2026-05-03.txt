@@ -333,3 +333,4 @@
 [10:44:07] en-ja browser: Discourage what got Garissa said.
 [10:44:11] en-ja browser: Natural examples.
 [10:44:13] en-ja browser: Don't discourage him.
+[10:44:15] en-ja browser: The bad weather discouraged us from going out.
