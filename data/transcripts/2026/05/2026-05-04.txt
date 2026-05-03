@@ -163,3 +163,4 @@
 [08:58:37] en-ja browser: I need to grasp the details.
 [08:58:51] en-ja browser: Shift one's attention to
 [08:58:57] en-ja browser: I need to shift my attention to something else.
+[08:58:59] en-ja browser: Let's shift our focus to the next thing.
