@@ -75,3 +75,4 @@
 [10:14:24] en-ja browser: Nostalgia means a feeling of pleasure and sadness
 [10:14:27] en-ja browser: when you remember happy times from the past. For example,
 [10:14:28] en-ja browser: listening to that old song gives me nostalgia.
+[10:14:31] en-ja browser: Can you make one sentence using nostalgia?
