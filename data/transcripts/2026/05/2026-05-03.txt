@@ -242,3 +242,4 @@
 [10:36:34] en-ja browser: equals gum answer.
 [10:36:37] en-ja browser: Examples.
 [10:36:39] en-ja browser: I can't endure this pain anymore.
+[10:36:41] en-ja browser: I can't tolerate his behavior.
