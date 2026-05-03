@@ -354,3 +354,4 @@
 [10:46:07] en-ja browser: sと。
 [10:46:08] en-ja browser: 落胆しないでください。
 [10:46:10] en-ja browser: 全文を言ってみませんか?
+[10:46:23] en-ja browser: 正しい文。
