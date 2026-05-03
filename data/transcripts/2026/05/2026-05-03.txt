@@ -270,3 +270,4 @@
 [10:38:42] en-ja browser: Do you wanna practice making a sentence using criticize?
 [10:39:04] en-ja browser: Correct sentence would be,
 [10:39:07] en-ja browser: YouTubers criticize the Japanese government.
+[10:39:11] en-ja browser: Or more naturally, many YouTubers criticize the Japanese government.
