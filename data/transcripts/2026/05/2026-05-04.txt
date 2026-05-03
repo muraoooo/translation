@@ -136,3 +136,4 @@
 [08:55:46] en-ja browser: Seize the opportunity.
 [08:56:03] en-ja browser: Natural way to say it
 [08:56:07] en-ja browser: I'm always ready to seize any chance.
+[08:56:11] en-ja browser: I'm always ready to grab any opportunity.
