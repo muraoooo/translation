@@ -90,3 +90,4 @@
 [08:50:04] en-ja browser: Leap at the Kanji.
 [08:50:18] en-ja browser: Leap.
 [08:50:33] en-ja browser: Good.
+[08:50:35] en-ja browser: Leap.
