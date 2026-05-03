@@ -316,3 +316,4 @@
 [10:42:22] en-ja browser: Good job.
 [10:42:23] en-ja browser: Next word.
 [10:42:49] en-ja browser: Your sentence is not quite natural.
+[10:42:49] en-ja browser: Here's the correct and natural way to say it.
