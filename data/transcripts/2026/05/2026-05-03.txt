@@ -308,3 +308,4 @@
 [10:41:50] en-ja browser: Would you like me to give you another way to say this?
 [10:42:05] en-ja browser: Yes,
 [10:42:08] en-ja browser: Almost. Correct and natural way.
+[10:42:09] en-ja browser: Drag the sled across the snow.
