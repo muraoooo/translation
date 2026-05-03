@@ -343,3 +343,4 @@
 [10:44:46] en-ja browser: Your sentence was pretty close.
 [10:44:49] en-ja browser: The only thing is we usually don't say mother come here.
 [10:44:52] en-ja browser: Want to try another sentence using discourage?
+[10:45:05] en-ja browser: Here's a natural way to say it.
