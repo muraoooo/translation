@@ -212,3 +212,4 @@
 [10:34:24] en-ja browser: Think you're trying to say
 [10:34:27] en-ja browser: Correct way.
 [10:34:28] en-ja browser: Weave a story.
+[10:34:30] en-ja browser: That's the natural phrase.
