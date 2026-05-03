@@ -114,3 +114,4 @@
 [10:22:57] ja-en mic: ですかね。
 [10:23:15] ja-en mic: なんか
 [10:23:18] ja-en mic: 日本語でしゃべってるけど
+[10:25:06] en-ja browser: Defines comport of freedom.
