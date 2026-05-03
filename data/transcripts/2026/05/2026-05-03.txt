@@ -63,3 +63,4 @@
 [10:13:39] en-ja browser: I found this cafe by Serendipity.
 [10:13:43] en-ja browser: By serendipity means you found it by happy accident.
 [10:13:46] en-ja browser: Now, let's move on to the next word.
+[10:13:47] en-ja browser: Nostalgia.
