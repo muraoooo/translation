@@ -140,3 +140,4 @@
 [08:57:23] en-ja browser: 良い。しかし
 [08:57:25] en-ja browser: 小さな修正が 1 つあります。
 [08:57:28] en-ja browser: Shizenai Katawa 詳細を把握する必要があります。
+[08:57:30] en-ja browser: 詳細詳細。
