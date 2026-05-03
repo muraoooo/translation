@@ -305,3 +305,4 @@
 [10:41:43] en-ja browser: drag the sled across the snow
 [10:41:45] en-ja browser: Drag is the perfect word here.
 [10:41:47] en-ja browser: It means
+[10:41:50] en-ja browser: Would you like me to give you another way to say this?
