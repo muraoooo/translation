@@ -313,3 +313,4 @@
 [10:42:16] en-ja browser: drag the sled across the snow is good, but we usually say
 [10:42:20] en-ja browser: the sled instead of just sled. So the full natural sentences,
 [10:42:21] en-ja browser: drag the sled across the snow.
+[10:42:22] en-ja browser: Good job.
