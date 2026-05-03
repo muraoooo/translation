@@ -135,3 +135,4 @@
 [08:56:52] en-ja browser: 伊根二州塩、
 [08:56:55] en-ja browser: 細部まで把握する
 [08:57:04] en-ja browser: 詳細を把握する必要がある。
+[08:57:07] en-ja browser: 把握する
