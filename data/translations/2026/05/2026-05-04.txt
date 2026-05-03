@@ -123,3 +123,4 @@
 [08:55:26] en-ja browser: ロープを握る
 [08:55:29] en-ja browser: グリップ。
 [08:55:40] en-ja browser: チャンスを掴んでください。
+[08:55:41] en-ja browser: をつかみます
