@@ -178,3 +178,4 @@
 [10:31:11] en-ja browser: Keep going. I'll keep fixing them for you.
 [10:31:24] en-ja browser: Yes. Exactly.
 [10:31:29] en-ja browser: Justify is the correct word. It means to show that
+[10:31:32] en-ja browser: someone's action or behavior is right or reasonable. Example,
