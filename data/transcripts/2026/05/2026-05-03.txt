@@ -324,3 +324,4 @@
 [10:43:08] en-ja browser: In daily conversation. He's going to buy a new computer for our office.
 [10:43:10] en-ja browser: Yuri daily conversation.
 [10:43:14] en-ja browser: You want to keep practicing with purchase, or shall we move to the next word?
+[10:43:41] en-ja browser: Correct natural sentence.
