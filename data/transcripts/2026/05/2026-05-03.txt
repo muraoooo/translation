@@ -104,3 +104,4 @@
 [10:19:35] en-ja browser: Including the Opus four point six and four point seven versions that Max Plan users rely on.
 [10:19:39] en-ja browser: Anthropics postmortem showed three separate changes that hurt performance.
 [10:19:41] en-ja browser: Lowering default reasoning effort,
+[10:19:46] en-ja browser: a caching bug that made it forgetful, and a prompt tweak to make responses less verbose.
