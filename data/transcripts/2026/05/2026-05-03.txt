@@ -288,3 +288,4 @@
 [10:40:26] en-ja browser: This word is good when something comes out or becomes visible after being hidden.
 [10:40:29] en-ja browser: Want to try making a sentence using a merge?
 [10:40:49] en-ja browser: Natural sentence. Many problems emerge when you start a new project.
+[10:40:50] en-ja browser: Or shorter,
