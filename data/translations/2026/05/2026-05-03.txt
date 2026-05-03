@@ -232,3 +232,4 @@
 [10:36:37] en-ja browser: 例。
 [10:36:40] en-ja browser: もうこの痛みには耐えられません。
 [10:36:42] en-ja browser: 彼の行動は許せません。
+[10:36:46] en-ja browser: 横たわる
