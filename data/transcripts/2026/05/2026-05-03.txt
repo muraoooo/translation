@@ -364,3 +364,4 @@
 [10:46:06] en-ja browser: With s.
 [10:46:07] en-ja browser: Not discourage.
 [10:46:09] en-ja browser: Want to try saying the full sentence?
+[10:46:22] en-ja browser: Correct sentence.
