@@ -335,3 +335,4 @@
 [10:44:13] en-ja browser: Don't discourage him.
 [10:44:15] en-ja browser: The bad weather discouraged us from going out.
 [10:44:18] en-ja browser: His failure discouraged him from trying again.
+[10:44:21] en-ja browser: Would you like to practice making a sentence using discourage?
