@@ -26,3 +26,4 @@
 [08:43:25] en-ja browser: Sold sold through the snow,
 [08:43:43] en-ja browser: Drag is pronounced like drag.
 [08:43:45] en-ja browser: With a hard g at the end.
+[08:43:47] en-ja browser: Drug is drug
