@@ -275,3 +275,4 @@
 [10:39:28] en-ja browser: Good. But one small correction.
 [10:39:32] en-ja browser: Correct version. Many YouTubers criticize the Japanese government.
 [10:39:36] en-ja browser: You need to add s at the end, many YouTubers.
+[10:39:42] en-ja browser: Want to try making another sentence?
