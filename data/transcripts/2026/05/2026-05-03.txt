@@ -218,3 +218,4 @@
 [10:34:42] en-ja browser: Example.
 [10:34:44] en-ja browser: She really knows how to weave a good story.
 [10:34:46] en-ja browser: Want to try another word?
+[10:35:09] en-ja browser: Natural way.
