@@ -99,3 +99,4 @@
 [08:51:24] en-ja browser: I'm a superstar who leaps over any obstacle.
 [08:51:31] en-ja browser: That I'm a superstar who leaps over any obstacle.
 [08:51:40] en-ja browser: Good.
+[08:51:42] en-ja browser: Now say this one smoothly.
