@@ -281,3 +281,4 @@
 [10:40:51] en-ja browser: あるいはもっと短く、
 [10:40:53] en-ja browser: 新たな課題が日々生まれています。
 [10:40:56] en-ja browser: 「emerge」を使った例文をもっと教えてください。
+[10:41:06] en-ja browser: 良い。
