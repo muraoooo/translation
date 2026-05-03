@@ -115,3 +115,4 @@
 [10:23:15] ja-en mic: なんか
 [10:23:18] ja-en mic: 日本語でしゃべってるけど
 [10:25:06] en-ja browser: Defines comport of freedom.
+[10:25:09] en-ja browser: I don't think that's a standard phrase or idiom.
