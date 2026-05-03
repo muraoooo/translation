@@ -193,3 +193,4 @@
 [10:32:23] en-ja browser: Connect the two ideas.
 [10:32:24] en-ja browser: Link them together.
 [10:32:37] en-ja browser: Yes. Associate is the correct word.
+[10:32:42] en-ja browser: I associate a with b.
