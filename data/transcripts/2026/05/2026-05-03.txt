@@ -310,3 +310,4 @@
 [10:42:08] en-ja browser: Almost. Correct and natural way.
 [10:42:09] en-ja browser: Drag the sled across the snow.
 [10:42:11] en-ja browser: Your version,
+[10:42:16] en-ja browser: drag the sled across the snow is good, but we usually say
