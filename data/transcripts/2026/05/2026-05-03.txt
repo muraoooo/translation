@@ -38,3 +38,4 @@
 [10:10:53] en-ja browser: Demolished the Tangoa Dole Godzilla Tango Godzilla demolished the building.
 [10:11:04] en-ja browser: Perfect.
 [10:11:07] en-ja browser: That's correct. Demolish is a very good word here.
+[10:11:10] en-ja browser: It means to completely destroy a building or structure.
