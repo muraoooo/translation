@@ -155,3 +155,4 @@
 [10:29:14] en-ja browser: Would you like me to explain how deep that influence actually goes?
 [10:29:38] en-ja browser: Yeah. Got it.
 [10:29:41] en-ja browser: Engage the children in action is good.
+[10:29:43] en-ja browser: But more natural would be
