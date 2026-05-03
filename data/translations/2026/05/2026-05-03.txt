@@ -351,3 +351,4 @@
 [10:46:01] en-ja browser: これは良いですね。
 [10:46:03] en-ja browser: 小さな修正が 1 つあります。
 [10:46:04] en-ja browser: 彼の後、
+[10:46:07] en-ja browser: sと。
