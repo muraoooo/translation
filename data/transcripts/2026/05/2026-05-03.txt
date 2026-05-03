@@ -230,3 +230,4 @@
 [10:35:43] en-ja browser: I deposited money in the bank.
 [10:35:44] en-ja browser: Or
 [10:35:46] en-ja browser: I made a deposit at the bank.
+[10:35:49] en-ja browser: Deposit money in the bank is grammatically okay
