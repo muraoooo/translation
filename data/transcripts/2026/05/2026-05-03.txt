@@ -157,3 +157,4 @@
 [10:29:41] en-ja browser: Engage the children in action is good.
 [10:29:43] en-ja browser: But more natural would be
 [10:29:46] en-ja browser: question mark, engage the children in an activity,
+[10:29:47] en-ja browser: or
