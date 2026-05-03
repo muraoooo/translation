@@ -252,3 +252,4 @@
 [10:38:13] en-ja browser: これは正しいです。
 [10:38:14] en-ja browser: 別の文を試してみますか?
 [10:38:29] en-ja browser: はい。
+[10:38:30] en-ja browser: それは正しいです。
