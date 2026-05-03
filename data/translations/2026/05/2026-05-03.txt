@@ -229,3 +229,4 @@
 [10:36:30] en-ja browser: エンデュアはガンンサーに匹敵します。
 [10:36:33] en-ja browser: 許容する
 [10:36:35] en-ja browser: ガムの答えに等しい。
+[10:36:37] en-ja browser: 例。
