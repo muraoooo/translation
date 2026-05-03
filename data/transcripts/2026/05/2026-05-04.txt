@@ -18,3 +18,4 @@
 [08:41:25] en-ja browser: A newspaper criticized his new romance novel.
 [08:41:38] en-ja browser: Some people criticize eating meat.
 [08:41:47] en-ja browser: Some people criticize eating meat.
+[08:42:00] en-ja browser: A strange figure emerged from the darkness,
