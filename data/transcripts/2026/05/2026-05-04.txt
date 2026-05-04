@@ -198,3 +198,4 @@
 [09:02:05] en-ja browser: Can you say both one after the other?
 [09:02:20] en-ja browser: Remark. Novel. Novel.
 [09:02:22] en-ja browser: Novel shorted to a novel
+[09:02:26] en-ja browser: Remark
