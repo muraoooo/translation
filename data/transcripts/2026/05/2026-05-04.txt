@@ -277,3 +277,4 @@
 [09:12:57] en-ja browser: Perceives
 [09:13:09] en-ja browser: Construct
 [09:13:31] en-ja browser: Good.
+[09:13:32] en-ja browser: Try this sentence.
