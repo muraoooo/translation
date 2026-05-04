@@ -296,3 +296,4 @@
 [09:16:20] en-ja browser: Innocent.
 [09:16:21] en-ja browser: Innocence. Innocent
 [09:16:30] en-ja browser: He asserted his innocence
+[09:16:33] en-ja browser: Asserted
