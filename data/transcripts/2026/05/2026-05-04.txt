@@ -180,3 +180,4 @@
 [09:00:48] en-ja browser: Accuse
 [09:00:49] en-ja browser: You said
 [09:00:51] en-ja browser: which means confess.
+[09:00:52] en-ja browser: The right word is confess.
