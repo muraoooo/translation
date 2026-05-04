@@ -204,3 +204,4 @@
 [09:05:32] en-ja browser: これが一番自然
 [09:05:35] en-ja browser: うん。それが
 [09:05:53] en-ja browser: 良い。
+[09:05:55] en-ja browser: わかりました。
