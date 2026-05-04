@@ -176,3 +176,4 @@
 [09:00:30] en-ja browser: Accused were Kokohatsuru Janayo,
 [09:00:35] en-ja browser: confess.
 [09:00:38] en-ja browser: I
+[09:00:45] en-ja browser: That's correct English, but wrong word.
