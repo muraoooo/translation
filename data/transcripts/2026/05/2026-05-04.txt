@@ -455,3 +455,4 @@
 [09:38:03] en-ja browser: Toka.
 [09:38:06] en-ja browser: A lot of people in Tokyo betray your confidence,
 [09:38:10] en-ja browser: There's a lot of backstabbing in Tokyo.
+[09:38:13] en-ja browser: People here betray your trust pretty easily.
