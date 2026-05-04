@@ -470,3 +470,4 @@
 [09:39:43] en-ja browser: He looks tough. He looks solid.
 [09:39:47] en-ja browser: Sturdy
 [09:40:08] en-ja browser: My mom is carrying a bag.
+[09:40:29] en-ja browser: My mom's holding a shopping bag.
