@@ -234,3 +234,4 @@
 [09:08:21] en-ja browser: Let's make it natural.
 [09:08:22] en-ja browser: I had coffee.
 [09:08:24] en-ja browser: I drank coffee.
+[09:08:37] en-ja browser: Try this one.
