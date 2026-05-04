@@ -215,3 +215,4 @@
 [09:05:31] en-ja browser: Korega Ichiban Shizen
 [09:05:35] en-ja browser: Yeah. That's the
 [09:05:54] en-ja browser: That's much better.
+[09:05:56] en-ja browser: Want to try another sentence?
