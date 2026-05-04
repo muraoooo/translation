@@ -364,3 +364,4 @@
 [09:24:46] en-ja browser: You could eat demi day.
 [09:24:50] en-ja browser: Imposes sanctions
 [09:25:04] en-ja browser: The United States imposes
+[09:25:09] en-ja browser: economic sanctions on Iran, imposes
