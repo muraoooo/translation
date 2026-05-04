@@ -182,3 +182,4 @@
 [09:01:55] en-ja browser: 良い。非常に明確です。
 [09:01:57] en-ja browser: では、両方を一緒に練習してみましょう。
 [09:01:57] en-ja browser: 1つ、
+[09:01:59] en-ja browser: 二、
