@@ -411,3 +411,4 @@
 [09:34:28] en-ja browser: そのまま続けてください。
 [09:34:40] en-ja browser: 乗算します。
 [09:34:58] en-ja browser: 良い。
+[09:35:04] en-ja browser: これを試してみてください。
