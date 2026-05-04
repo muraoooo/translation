@@ -184,3 +184,4 @@
 [09:00:53] en-ja browser: Try this,
 [09:00:55] en-ja browser: I confessed to her.
 [09:01:14] en-ja browser: Good job on confessed. Now the second sentence.
+[09:01:15] en-ja browser: Here's the natural correction.
