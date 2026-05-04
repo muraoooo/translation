@@ -188,3 +188,4 @@
 [09:02:20] en-ja browser: 述べる。小説。小説。
 [09:02:24] en-ja browser: 小説を小説に略したもの
 [09:02:26] en-ja browser: 述べる
+[09:02:29] en-ja browser: 備考 リマーク、デマーク、
