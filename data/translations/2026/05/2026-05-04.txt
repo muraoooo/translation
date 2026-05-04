@@ -207,3 +207,4 @@
 [09:05:55] en-ja browser: わかりました。
 [09:05:56] en-ja browser: 別の文を試してみますか?
 [09:06:07] en-ja browser: 収率。
+[09:06:23] en-ja browser: いいえ、そうではありません。
