@@ -464,3 +464,4 @@
 [09:39:12] en-ja browser: There's a lot of backstabbing in Tokyo.
 [09:39:14] en-ja browser: There is Nisiter.
 [09:39:17] en-ja browser: People here betray your tourist pattern easily.
+[09:39:22] en-ja browser: Trust
