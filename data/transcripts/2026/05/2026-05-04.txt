@@ -330,3 +330,4 @@
 [09:20:16] en-ja browser: This manju is so delicious.
 [09:20:27] en-ja browser: Yes.
 [09:20:28] en-ja browser: Much better.
+[09:20:31] en-ja browser: Your pronunciation of Manju is getting really good.
