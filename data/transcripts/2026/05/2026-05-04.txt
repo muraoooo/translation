@@ -195,3 +195,4 @@
 [09:01:59] en-ja browser: I confessed to her.
 [09:01:59] en-ja browser: Two,
 [09:02:02] en-ja browser: the police accused Tom of damaging the patrol car.
+[09:02:05] en-ja browser: Can you say both one after the other?
