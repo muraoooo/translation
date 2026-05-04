@@ -460,3 +460,4 @@
 [09:38:55] en-ja browser: A lot of people in Tokyo betray your trust.
 [09:39:04] en-ja browser: A lot of people in Tokyo betray your confidence.
 [09:39:06] en-ja browser: Confidence trust on the she's in.
+[09:39:09] en-ja browser: There are a lot of backstabbing in Tokyo.
