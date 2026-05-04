@@ -241,3 +241,4 @@
 [09:08:55] en-ja browser: My mom makes me coffee.
 [09:08:57] en-ja browser: And I say thank you.
 [09:09:10] en-ja browser: My elderly mother
+[09:09:25] en-ja browser: I take care of my elderly mother
