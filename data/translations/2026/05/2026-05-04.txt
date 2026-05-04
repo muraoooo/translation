@@ -285,3 +285,4 @@
 [09:16:31] en-ja browser: 彼は無実を主張した
 [09:16:34] en-ja browser: アサート済み
 [09:16:39] en-ja browser: 完璧。
+[09:16:58] en-ja browser: マザー・イノセント
