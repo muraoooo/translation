@@ -368,3 +368,4 @@
 [09:25:27] en-ja browser: The United States imposes economic sanctions on Iran sanctions Nobibun.
 [09:25:41] en-ja browser: Let's fix two things.
 [09:25:43] en-ja browser: The United States imposes
+[09:25:48] en-ja browser: economic sanctions on Iran. Sentence
