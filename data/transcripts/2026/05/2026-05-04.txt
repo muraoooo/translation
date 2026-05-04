@@ -189,3 +189,4 @@
 [09:01:20] en-ja browser: Try saying that one.
 [09:01:33] en-ja browser: Good try.
 [09:01:34] en-ja browser: Correct version.
+[09:01:37] en-ja browser: The police accused Tom of damaging the patrol car.
