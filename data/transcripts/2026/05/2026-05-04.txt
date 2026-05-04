@@ -183,3 +183,4 @@
 [09:00:52] en-ja browser: The right word is confess.
 [09:00:53] en-ja browser: Try this,
 [09:00:55] en-ja browser: I confessed to her.
+[09:01:14] en-ja browser: Good job on confessed. Now the second sentence.
