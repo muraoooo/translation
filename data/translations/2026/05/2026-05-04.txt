@@ -335,3 +335,4 @@
 [09:23:33] en-ja browser: ユヨを虐待するのは誰ですか？
 [09:23:43] en-ja browser: ほとんど。
 [09:23:46] en-ja browser: 複数。
+[09:23:46] en-ja browser: 最後の部分はペットです。
