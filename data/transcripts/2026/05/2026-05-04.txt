@@ -334,3 +334,4 @@
 [09:20:32] en-ja browser: I'm impressed.
 [09:20:37] en-ja browser: This manju is so delicious.
 [09:20:47] en-ja browser: This manju is so delicious.
+[09:21:02] en-ja browser: Command.
