@@ -210,3 +210,4 @@
 [09:04:33] en-ja browser: Let's practice then.
 [09:04:36] en-ja browser: What's the next word or sentence you want to try?
 [09:05:02] en-ja browser: I want to capture a criminal one day.
+[09:05:03] en-ja browser: Corre de Dole.
