@@ -278,3 +278,4 @@
 [09:13:09] en-ja browser: Construct
 [09:13:31] en-ja browser: Good.
 [09:13:32] en-ja browser: Try this sentence.
+[09:13:35] en-ja browser: They will construct a building across the river.
