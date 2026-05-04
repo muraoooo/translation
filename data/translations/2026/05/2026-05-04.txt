@@ -359,3 +359,4 @@
 [09:26:43] en-ja browser: イランへの制裁。
 [09:26:46] en-ja browser: 課す
 [09:27:01] en-ja browser: きれいにしましょう。
+[09:27:12] en-ja browser: フェード。
