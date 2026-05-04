@@ -355,3 +355,4 @@
 [09:23:43] en-ja browser: Almost.
 [09:23:45] en-ja browser: The last part is pets.
 [09:23:50] en-ja browser: I can't forgive anyone who abuses pets.
+[09:23:58] en-ja browser: Yes.
