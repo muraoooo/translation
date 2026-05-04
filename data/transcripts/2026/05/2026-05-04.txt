@@ -178,3 +178,4 @@
 [09:00:38] en-ja browser: I
 [09:00:45] en-ja browser: That's correct English, but wrong word.
 [09:00:48] en-ja browser: Accuse
+[09:00:49] en-ja browser: You said
