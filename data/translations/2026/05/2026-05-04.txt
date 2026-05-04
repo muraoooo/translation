@@ -264,3 +264,4 @@
 [09:12:57] en-ja browser: 知覚する
 [09:13:09] en-ja browser: 構築する
 [09:13:31] en-ja browser: 良い。
+[09:13:33] en-ja browser: この文を試してみてください。
