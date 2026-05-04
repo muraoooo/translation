@@ -427,3 +427,4 @@
 [09:33:50] en-ja browser: You're going stupid right now.
 [09:34:05] en-ja browser: Almost.
 [09:34:08] en-ja browser: You're going stupid right now.
+[09:34:11] en-ja browser: You're going stupid crazy right now.
