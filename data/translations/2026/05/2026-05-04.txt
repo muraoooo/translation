@@ -169,3 +169,4 @@
 [09:00:36] en-ja browser: 告白する。
 [09:00:38] en-ja browser: 私
 [09:00:46] en-ja browser: それは正しい英語ですが、間違った言葉です。
+[09:00:48] en-ja browser: 告発する
