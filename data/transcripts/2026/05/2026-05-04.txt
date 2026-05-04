@@ -452,3 +452,4 @@
 [09:36:49] en-ja browser: Betray.
 [09:37:44] en-ja browser: Konichiwa
 [09:38:02] en-ja browser: People in Tokyo often betray your trust.
+[09:38:03] en-ja browser: Toka.
