@@ -325,3 +325,4 @@
 [09:19:44] en-ja browser: This manju is so delicious.
 [09:20:02] en-ja browser: This manju is so delicious.
 [09:20:06] en-ja browser: Manju no bubon.
+[09:20:12] en-ja browser: Manju
