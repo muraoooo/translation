@@ -373,3 +373,4 @@
 [09:26:05] en-ja browser: Good.
 [09:26:07] en-ja browser: Sanctions
 [09:26:14] en-ja browser: The United States imposes economic sanctions on Iran.
+[09:26:25] en-ja browser: Close.
