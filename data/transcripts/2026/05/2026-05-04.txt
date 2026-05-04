@@ -328,3 +328,4 @@
 [09:20:12] en-ja browser: Manju
 [09:20:12] en-ja browser: Nice.
 [09:20:16] en-ja browser: This manju is so delicious.
+[09:20:27] en-ja browser: Yes.
