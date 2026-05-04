@@ -387,3 +387,4 @@
 [09:28:35] en-ja browser: Good.
 [09:28:36] en-ja browser: That's correct.
 [09:28:48] en-ja browser: Starve.
+[09:29:10] en-ja browser: If you don't eat for a long time,
