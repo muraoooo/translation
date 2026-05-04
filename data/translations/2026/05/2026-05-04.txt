@@ -318,3 +318,4 @@
 [09:21:17] en-ja browser: 将軍は兵士たちに命令した。
 [09:21:34] en-ja browser: 良い。素晴らしい仕事だ。
 [09:21:42] en-ja browser: 良い。
+[09:21:56] en-ja browser: 乱用
