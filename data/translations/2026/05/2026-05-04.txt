@@ -351,3 +351,4 @@
 [09:25:43] en-ja browser: 米国が課しているのは、
 [09:25:50] en-ja browser: イランへの経済制裁。文
 [09:26:05] en-ja browser: 良い。
+[09:26:07] en-ja browser: 制裁
