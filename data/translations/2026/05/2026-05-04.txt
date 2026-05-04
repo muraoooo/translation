@@ -230,3 +230,4 @@
 [09:09:11] en-ja browser: 私の高齢の母
 [09:09:12] en-ja browser: ソコマ デ イエタラ、
 [09:09:26] en-ja browser: 私は高齢の母の介護をしています
+[09:09:41] en-ja browser: 良い。
