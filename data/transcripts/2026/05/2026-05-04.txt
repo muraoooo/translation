@@ -239,3 +239,4 @@
 [09:08:52] en-ja browser: Good.
 [09:08:53] en-ja browser: Try this full sentence.
 [09:08:55] en-ja browser: My mom makes me coffee.
+[09:08:57] en-ja browser: And I say thank you.
