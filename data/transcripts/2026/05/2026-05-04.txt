@@ -404,3 +404,4 @@
 [09:31:13] en-ja browser: I still retain a clear memory of our English conversation.
 [09:31:15] en-ja browser: Retention retain
 [09:31:34] en-ja browser: I still retain
+[09:31:44] en-ja browser: Detain.
