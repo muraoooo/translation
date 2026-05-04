@@ -375,3 +375,4 @@
 [09:26:14] en-ja browser: The United States imposes economic sanctions on Iran.
 [09:26:25] en-ja browser: Close.
 [09:26:27] en-ja browser: But impose nobubunga mother imposes
+[09:26:41] en-ja browser: The United States imposes economic
