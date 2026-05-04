@@ -254,3 +254,4 @@
 [09:11:43] en-ja browser: 知覚する。
 [09:12:01] en-ja browser: 母は私を認識している
 [09:12:06] en-ja browser: 私のガールフレンドごと
+[09:12:08] en-ja browser: 何？
