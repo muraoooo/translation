@@ -380,3 +380,4 @@
 [09:27:00] en-ja browser: Let's clean it up.
 [09:27:10] en-ja browser: The United States imposes economic sanctions on Iraq
 [09:27:11] en-ja browser: Fade.
+[09:27:39] en-ja browser: The sticker on the window is fading.
