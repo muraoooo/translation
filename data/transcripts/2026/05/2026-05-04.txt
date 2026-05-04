@@ -310,3 +310,4 @@
 [09:17:45] en-ja browser: Asserted his innocence.
 [09:18:00] en-ja browser: Declare
 [09:18:22] en-ja browser: Lincoln declared independence.
+[09:18:37] en-ja browser: Lincoln declared the Emancipation Procuremento. He declared independence.
