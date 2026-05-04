@@ -191,3 +191,4 @@
 [09:01:34] en-ja browser: Correct version.
 [09:01:37] en-ja browser: The police accused Tom of damaging the patrol car.
 [09:01:55] en-ja browser: Good. Very clear.
+[09:01:57] en-ja browser: Now let's practice both together.
