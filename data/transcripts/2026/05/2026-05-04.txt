@@ -352,3 +352,4 @@
 [09:23:17] en-ja browser: pets.
 [09:23:30] en-ja browser: Close. But let's fix two things. I can't forgive anyone who abuses pets.
 [09:23:32] en-ja browser: Who abuses the Yuyo?
+[09:23:43] en-ja browser: Almost.
