@@ -187,3 +187,4 @@
 [09:01:15] en-ja browser: Here's the natural correction.
 [09:01:19] en-ja browser: The police accused Tom of damaging the patrol car.
 [09:01:20] en-ja browser: Try saying that one.
+[09:01:33] en-ja browser: Good try.
