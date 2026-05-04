@@ -247,3 +247,4 @@
 [09:09:44] en-ja browser: I take care of my elderly mother.
 [09:09:47] en-ja browser: Elderly mother
 [09:09:54] en-ja browser: I take care of my elderly mother.
+[09:10:05] en-ja browser: No. No. No.
