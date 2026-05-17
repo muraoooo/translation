@@ -114,3 +114,4 @@
 [22:21:20] ja-en browser: is that so.
 [22:21:25] ja-en browser: Money is not money
 [22:21:27] ja-en browser: I'm still aiming
+[22:21:30] ja-en browser: What material is it?
