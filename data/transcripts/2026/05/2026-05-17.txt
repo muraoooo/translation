@@ -174,3 +174,4 @@
 [22:24:10] ja-en browser: 聞くですかれるんですはい
 [22:24:11] ja-en browser: 見れますね。聞くだけ
 [22:24:13] ja-en browser: 見れるんだ。
+[22:24:15] ja-en browser: 見えます見ます
