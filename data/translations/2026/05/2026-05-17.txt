@@ -142,3 +142,4 @@
 [22:22:42] ja-en browser: do not have
 [22:22:50] ja-en browser: Not yet
 [22:22:52] ja-en browser: than money
+[22:22:54] ja-en browser: I have an image
