@@ -176,3 +176,4 @@
 [22:24:13] ja-en browser: 見れるんだ。
 [22:24:15] ja-en browser: 見えます見ます
 [22:24:15] ja-en browser: 人数で。
+[22:24:18] ja-en browser: じゃあいいのか
