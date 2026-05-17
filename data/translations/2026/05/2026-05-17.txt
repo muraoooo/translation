@@ -91,3 +91,4 @@
 [22:20:00] ja-en browser: I don't like it
 [22:20:03] ja-en browser: repeat that
 [22:20:06] ja-en browser: Isn't that okay?
+[22:20:11] ja-en browser: Because it's good to do this. Because that's what I'm saying.
