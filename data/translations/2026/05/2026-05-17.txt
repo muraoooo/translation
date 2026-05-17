@@ -134,3 +134,4 @@
 [22:22:15] ja-en browser: I want it to be moderated.
 [22:22:18] ja-en browser: 1% of 1 trillion yen is 10 billion
 [22:22:20] ja-en browser: Ten billion.
+[22:22:23] ja-en browser: One percent of us will get 100 million.
