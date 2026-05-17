@@ -172,3 +172,4 @@
 [22:24:13] ja-en browser: You can see it. just listen
 [22:24:14] ja-en browser: I can see it.
 [22:24:16] ja-en browser: In number of people.
+[22:24:16] ja-en browser: You can see it
