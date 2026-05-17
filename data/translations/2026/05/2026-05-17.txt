@@ -174,3 +174,4 @@
 [22:24:16] ja-en browser: In number of people.
 [22:24:16] ja-en browser: You can see it
 [22:24:19] ja-en browser: Is it okay then?
+[22:24:21] ja-en browser: The system is made by us.
