@@ -173,3 +173,4 @@
 [22:24:14] ja-en browser: I can see it.
 [22:24:16] ja-en browser: In number of people.
 [22:24:16] ja-en browser: You can see it
+[22:24:19] ja-en browser: Is it okay then?
