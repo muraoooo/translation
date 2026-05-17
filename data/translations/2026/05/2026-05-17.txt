@@ -107,3 +107,4 @@
 [22:20:56] ja-en browser: amazing
 [22:21:00] ja-en browser: That's an amazing sound
 [22:21:04] ja-en browser: That's less than 1% of the market.
+[22:21:08] ja-en browser: What is it?
