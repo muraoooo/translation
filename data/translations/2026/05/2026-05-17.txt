@@ -136,3 +136,4 @@
 [22:22:20] ja-en browser: Ten billion.
 [22:22:23] ja-en browser: One percent of us will get 100 million.
 [22:22:27] ja-en browser: hey
+[22:22:33] ja-en browser: I'm waiting a little longer though.
