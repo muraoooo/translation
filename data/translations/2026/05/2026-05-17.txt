@@ -177,3 +177,4 @@
 [22:24:21] ja-en browser: The system is made by us.
 [22:24:22] ja-en browser: can be calculated
 [22:24:28] ja-en browser: .
+[22:24:33] ja-en browser: You're lying.
