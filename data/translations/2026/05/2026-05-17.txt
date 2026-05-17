@@ -132,3 +132,4 @@
 [22:22:12] ja-en browser: There are a lot of kanji
 [22:22:14] ja-en browser: There are many kanji
 [22:22:15] ja-en browser: I want it to be moderated.
+[22:22:18] ja-en browser: 1% of 1 trillion yen is 10 billion
