@@ -120,3 +120,4 @@
 [22:21:29] ja-en browser: 何資料ですかそれは
 [22:21:31] ja-en browser: 建設
 [22:21:33] ja-en browser: 建設ね
+[22:21:36] ja-en browser: ゼネコンの依頼じゃないですよね。
