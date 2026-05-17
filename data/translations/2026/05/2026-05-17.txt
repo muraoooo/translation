@@ -171,3 +171,4 @@
 [22:24:11] ja-en browser: Listening to it makes me feel good, yes.
 [22:24:13] ja-en browser: You can see it. just listen
 [22:24:14] ja-en browser: I can see it.
+[22:24:16] ja-en browser: In number of people.
