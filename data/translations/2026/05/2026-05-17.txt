@@ -129,3 +129,4 @@
 [22:22:03] ja-en browser: Lyrics: Kajima Construction
 [22:22:07] ja-en browser: It's called something like a group, which sounds kind of scary.
 [22:22:10] ja-en browser: It's a name that's been around for a long time, so there are a lot of kanji in it.
+[22:22:12] ja-en browser: There are a lot of kanji
