@@ -131,3 +131,4 @@
 [22:22:10] ja-en browser: It's a name that's been around for a long time, so there are a lot of kanji in it.
 [22:22:12] ja-en browser: There are a lot of kanji
 [22:22:14] ja-en browser: There are many kanji
+[22:22:15] ja-en browser: I want it to be moderated.
