@@ -178,3 +178,4 @@
 [22:24:15] ja-en browser: 人数で。
 [22:24:18] ja-en browser: じゃあいいのか
 [22:24:20] ja-en browser: システムこっちが作ってるんで
+[22:24:21] ja-en browser: 計算できます
