@@ -109,3 +109,4 @@
 [22:21:04] ja-en browser: That's less than 1% of the market.
 [22:21:08] ja-en browser: What is it?
 [22:21:15] ja-en browser: Let's become number 1
+[22:21:16] ja-en browser: Well then, there is a yen market.
