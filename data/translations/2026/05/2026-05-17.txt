@@ -79,3 +79,4 @@
 [22:19:21] ja-en browser: Did you say by yourself?
 [22:19:27] ja-en browser: Not an acquaintance
 [22:19:30] ja-en browser: It's being introduced.
+[22:19:32] ja-en browser: No, while we were talking
