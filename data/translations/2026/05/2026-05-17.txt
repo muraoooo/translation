@@ -182,3 +182,4 @@
 [22:24:39] ja-en browser: See you soon.
 [22:24:43] ja-en browser: No matter how much you feel like offering, listen.
 [22:24:47] ja-en browser: You've probably heard too much.
+[22:24:49] ja-en browser: .
