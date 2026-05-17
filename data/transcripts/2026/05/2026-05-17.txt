@@ -92,3 +92,4 @@
 [22:19:55] ja-en browser: いや
 [22:19:57] ja-en browser: でもそれ欲しい
 [22:19:59] ja-en browser: 嫌です
+[22:20:02] ja-en browser: そういうのを繰り返します
