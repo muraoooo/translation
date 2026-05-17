@@ -94,3 +94,4 @@
 [22:20:11] ja-en browser: Because it's good to do this. Because that's what I'm saying.
 [22:20:13] ja-en browser: I think you should make it yourself.
 [22:20:23] ja-en browser: If that makes it deep
+[22:20:25] ja-en browser: It's pretty deep, isn't it? Because the customer
