@@ -95,3 +95,4 @@
 [22:20:13] ja-en browser: I think you should make it yourself.
 [22:20:23] ja-en browser: If that makes it deep
 [22:20:25] ja-en browser: It's pretty deep, isn't it? Because the customer
+[22:20:30] ja-en browser: For example, 1 billion, 30, 5 billion.
