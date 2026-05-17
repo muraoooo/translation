@@ -90,3 +90,4 @@
 [22:19:58] ja-en browser: But I want that
 [22:20:00] ja-en browser: I don't like it
 [22:20:03] ja-en browser: repeat that
+[22:20:06] ja-en browser: Isn't that okay?
