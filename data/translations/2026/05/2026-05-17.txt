@@ -80,3 +80,4 @@
 [22:19:27] ja-en browser: Not an acquaintance
 [22:19:30] ja-en browser: It's being introduced.
 [22:19:32] ja-en browser: No, while we were talking
+[22:19:34] ja-en browser: say that much
