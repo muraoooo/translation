@@ -137,3 +137,4 @@
 [22:22:13] ja-en browser: 漢字が多いです
 [22:22:14] ja-en browser: 加減にしほしい。
 [22:22:18] ja-en browser: 一兆円のうちの一パーセントで百億
+[22:22:19] ja-en browser: 百億。
