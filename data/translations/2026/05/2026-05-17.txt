@@ -5,3 +5,4 @@
 [22:14:32] ja-en browser: Because it's already there
 [22:14:36] ja-en browser: And, what's more, even if you don't abstract it in any way, is the model a model?
 [22:14:39] ja-en browser: hey. There is something that is already fixed.
+[22:14:42] ja-en browser: I'm trying to do some work by making harnesses.
