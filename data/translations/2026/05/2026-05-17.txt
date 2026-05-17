@@ -67,3 +67,4 @@
 [22:18:44] ja-en browser: I'll aim for it. interesting.
 [22:18:52] ja-en browser: As expected, I couldn't make it all by myself.
 [22:18:55] ja-en browser: It's about time to ask an engineer.
+[22:18:58] ja-en browser: hey. I'm not an engineer.
