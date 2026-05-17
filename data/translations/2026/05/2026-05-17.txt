@@ -34,3 +34,4 @@
 [22:16:19] ja-en browser: At that time, Fujitsu
 [22:16:21] ja-en browser: Palantir's
 [22:16:26] ja-en browser: Porting the Kou platform to Kou Japanese with the Lantia company
+[22:16:30] ja-en browser: but
