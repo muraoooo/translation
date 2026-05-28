@@ -563,3 +563,4 @@
 [11:39:45] en-ja browser: the travel booking platform, for example, like a hotel.com or
 [11:39:49] en-ja browser: Expedia to look at and find that gives the platform a little bit idea of
 [11:39:51] en-ja browser: what's your budget setting and
+[11:39:53] en-ja browser: I believe you will find a good deal.
