@@ -451,3 +451,4 @@
 [11:32:29] en-ja browser: note that. If you could,
 [11:32:32] en-ja browser: bring a little bit more business card with you.
 [11:32:38] en-ja browser: Let's move on to the global program.
+[11:32:43] en-ja browser: For those of you participating in our AI
