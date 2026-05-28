@@ -225,3 +225,4 @@
 [11:19:49] en-ja browser: no amplified speaker,
 [11:19:52] en-ja browser: Very important. No amplified speaker.
 [11:19:53] en-ja browser: Or
+[11:19:58] en-ja browser: no. Amplified
