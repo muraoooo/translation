@@ -115,3 +115,4 @@
 [11:13:50] en-ja browser: Most of the traditional taxi driver do not speak English.
 [11:13:56] en-ja browser: probably will be a good idea to show the driver your hotel address written in Mandarin.
 [11:14:02] en-ja browser: Or just pull up on a Google Map to help them to have an easy way to navigate
+[11:14:04] en-ja browser: to your your hotel.
