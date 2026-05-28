@@ -568,3 +568,4 @@
 [11:39:57] en-ja browser: Okay.
 [11:39:59] en-ja browser: Okay. Let's see. The next question
 [11:40:07] en-ja browser: I will send you the recording afterward.
+[11:40:08] en-ja browser: That's for sure.
