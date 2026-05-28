@@ -58,3 +58,4 @@
 [11:10:00] en-ja browser: 午後4時。
 [11:10:03] en-ja browser: 会場は、
 [11:10:06] en-ja browser: エキスポパーエキスポドーム。
+[11:10:08] en-ja browser: そしてこれが住所です。
