@@ -94,3 +94,4 @@
 [11:12:16] en-ja browser: And when you land it, in order to use the public transportation,
 [11:12:21] en-ja browser: you will need to get a easy car, which we also highlight here. This is
 [11:12:24] en-ja browser: kind of a Taipay's IC transit car.
+[11:12:27] en-ja browser: You can get it at airport ticket machines.
