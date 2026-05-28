@@ -417,3 +417,4 @@
 [11:30:33] en-ja browser: privately with the
 [11:30:35] en-ja browser: guest
 [11:30:36] en-ja browser: we invite in this
+[11:30:38] en-ja browser: blue box in this area.
