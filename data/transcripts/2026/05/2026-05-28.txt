@@ -800,3 +800,4 @@
 [11:53:02] en-ja browser: It's gonna be a little bit chaotic for you if you're landing at June 22.
 [11:53:05] en-ja browser: But if it's doable, it is doable, but there's a chance
 [11:53:06] en-ja browser: you will be
+[11:53:10] en-ja browser: chaotic in that situation. So my recommendation is that
