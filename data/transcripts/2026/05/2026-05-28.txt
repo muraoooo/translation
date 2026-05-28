@@ -840,3 +840,4 @@
 [11:55:17] en-ja browser: increase the potential problem. It's like a
 [11:55:18] en-ja browser: Chinese or Mandarin on your flyer,
 [11:55:21] en-ja browser: you also send out a bilingual representative on your booth.
+[11:55:26] en-ja browser: Otherwise, you are just gonna attract a slightly wrong audience to your booth
