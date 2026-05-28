@@ -85,3 +85,4 @@
 [11:11:36] en-ja browser: It will
 [11:11:41] en-ja browser: run directly from the Terminal 1 and Terminal 2 to Taipei Main Station.
 [11:11:44] en-ja browser: And it depends on you took you take the direct
+[11:11:49] en-ja browser: metro or indirect metro to the Taipei Main Station.
