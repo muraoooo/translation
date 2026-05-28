@@ -741,3 +741,4 @@
 [11:49:29] en-ja browser: I'm pretty sure you already signed up.
 [11:49:30] en-ja browser: But I might be wrong.
 [11:49:36] en-ja browser: However, for people who haven't signed up, just let you know, as I mentioned earlier, the
+[11:49:37] en-ja browser: private basis matching is already full.
