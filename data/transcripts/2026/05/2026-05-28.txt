@@ -639,3 +639,4 @@
 [11:44:00] en-ja browser: participation list from Taiwanese corporation for all the AI Taiwan ecosystem.
 [11:44:01] en-ja browser: Tool. Right?
 [11:44:05] en-ja browser: Yes. So also if you sign up for the tool,
+[11:44:10] en-ja browser: regardless is for the tour AI, ecosystem tool,
