@@ -294,3 +294,4 @@
 [11:23:27] en-ja browser: regular tape.
 [11:23:28] en-ja browser: Please must
 [11:23:31] en-ja browser: cathode tape only.
+[11:23:35] en-ja browser: And for people don't have an idea what is that,
