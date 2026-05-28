@@ -448,3 +448,4 @@
 [11:32:19] en-ja browser: Even though in this modern day, a lot of people just use LinkedIn or just
 [11:32:23] en-ja browser: scan a QR code, but there's still some good amount of people love the
 [11:32:28] en-ja browser: traditional idea collecting business cards. So just a friendly
+[11:32:29] en-ja browser: note that. If you could,
