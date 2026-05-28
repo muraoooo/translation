@@ -566,3 +566,4 @@
 [11:39:53] en-ja browser: I believe you will find a good deal.
 [11:39:55] en-ja browser: Thank you.
 [11:39:57] en-ja browser: Okay.
+[11:39:59] en-ja browser: Okay. Let's see. The next question
