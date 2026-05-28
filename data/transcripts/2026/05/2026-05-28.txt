@@ -775,3 +775,4 @@
 [11:51:19] en-ja browser: Yes. Okay.
 [11:51:26] en-ja browser: Hello. Can I also ask a question, please? Sure. Go ahead.
 [11:51:29] en-ja browser: Thank you. So just on the page you're showing, I don't know
+[11:51:34] en-ja browser: sorry if I missed it earlier in your explanation. But Yeah.
