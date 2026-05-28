@@ -828,3 +828,4 @@
 [11:54:41] en-ja browser: We got a question saying that if we are making a flyer
 [11:54:44] en-ja browser: should we have both English or Chinese or Mandarin? So
 [11:54:45] en-ja browser: audience can also read it?
+[11:54:49] en-ja browser: I think I'm gonna throw that question back to you.
