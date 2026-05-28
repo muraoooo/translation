@@ -487,3 +487,4 @@
 [11:36:40] en-ja browser: どうぞ。
 [11:36:45] en-ja browser: まず保存するには、次のように言います。
 [11:36:48] en-ja browser: の
+[11:36:54] en-ja browser: 混合レベル
