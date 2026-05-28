@@ -546,3 +546,4 @@
 [11:38:32] en-ja browser: that hotel seems pretty
 [11:38:35] en-ja browser: seems like a good option because you have an easy time to navigate.
 [11:38:39] en-ja browser: Yes. I hope that answered your question. I'm sorry. I wish I have a better
+[11:38:45] en-ja browser: What the brain says
