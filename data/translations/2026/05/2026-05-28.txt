@@ -186,3 +186,4 @@
 [11:17:56] en-ja browser: 最終的な印刷が失敗するかどうかは保証できません
 [11:18:00] en-ja browser: そして実際に印刷するまではそれがわかりません。それで
 [11:18:03] en-ja browser: Adobe Illustrated ファイルまたは Photoshop ファイルだけをお持ちの場合は、
+[11:18:06] en-ja browser: 一日の終わりにアップロードしてください。
