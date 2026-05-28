@@ -133,3 +133,4 @@
 [11:14:55] en-ja browser: the picture
 [11:14:59] en-ja browser: is 150 centimeter wide.
 [11:15:05] en-ja browser: Stand with a 150 centimeter deep and 250 centimeter height.
+[11:15:08] en-ja browser: Your boots come with a quick equipment
