@@ -486,3 +486,4 @@
 [11:34:37] en-ja browser: I'm sorry. There isn't that much I can do because you are late.
 [11:34:40] en-ja browser: And for the basis matching,
 [11:34:44] en-ja browser: which is going to be this sky blue bars at the bottom
+[11:34:45] en-ja browser: left
