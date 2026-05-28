@@ -179,3 +179,4 @@
 [11:17:31] en-ja browser: resolution JPEG file or even just a
 [11:17:33] en-ja browser: PNG file or even you submit a PDF file.
 [11:17:38] en-ja browser: I cannot really guarantee your boost
+[11:17:41] en-ja browser: will not look blurry or pixelate
