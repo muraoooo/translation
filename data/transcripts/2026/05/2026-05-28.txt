@@ -63,3 +63,4 @@
 [11:10:16] en-ja browser: give me one minute.
 [11:10:18] en-ja browser: Somebody
 [11:10:20] en-ja browser: is coming late.
+[11:10:30] en-ja browser: Yes. And this is address.
