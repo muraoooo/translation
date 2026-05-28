@@ -220,3 +220,4 @@
 [11:19:32] en-ja browser: We are not welcome
 [11:19:38] en-ja browser: not wrong or uncharted
 [11:19:43] en-ja browser: device are allowed in the hall or anywhere in the venue.
+[11:19:44] en-ja browser: Not open
