@@ -9,3 +9,4 @@
 [11:05:28] en-ja browser: Start recording.
 [11:05:49] en-ja browser: Wait. You may
 [11:06:20] en-ja browser: Okay. I'm back.
+[11:06:27] en-ja browser: One second, and we can start this
