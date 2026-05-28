@@ -284,3 +284,4 @@
 [11:22:52] en-ja browser: exiting the exhibition area for for your team and onto the
 [11:22:58] en-ja browser: stage, start with the sticker. So if you don't have a sticker,
 [11:23:00] en-ja browser: even if you sign up for the solution showcase, I will stop you.
+[11:23:05] en-ja browser: And if you have a HR team member coming later, you will want to come
