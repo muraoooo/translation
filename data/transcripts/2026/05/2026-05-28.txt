@@ -234,3 +234,4 @@
 [11:20:12] en-ja browser: for people who smoke,
 [11:20:13] en-ja browser: this is
 [11:20:15] en-ja browser: important information for you.
+[11:20:18] en-ja browser: Please know that smoking is cigarette
