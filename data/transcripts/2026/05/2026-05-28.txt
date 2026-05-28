@@ -471,3 +471,4 @@
 [11:33:51] en-ja browser: And doing the actual
 [11:33:52] en-ja browser: we have the global solution showcase.
 [11:33:53] en-ja browser: Which
+[11:33:56] en-ja browser: if you remember, the floor plan is a blue box.
