@@ -385,3 +385,4 @@
 [11:28:30] en-ja browser: And let's talk to the floor plan.
 [11:28:32] en-ja browser: So the floor plan
 [11:28:37] en-ja browser: beside the tiny screenshot here, we also got the high
+[11:28:41] en-ja browser: resolution available to Canva, which
