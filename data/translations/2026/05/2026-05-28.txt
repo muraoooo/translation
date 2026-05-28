@@ -84,3 +84,4 @@
 [11:11:31] en-ja browser: ポイント 6 それで、最初の 1 つは、次のことです。
 [11:11:34] en-ja browser: 公共交通機関ならAirport Ventureです。
 [11:11:36] en-ja browser: それは
+[11:11:42] en-ja browser: 第1ターミナルと第2ターミナルから台北駅まで直通しています。
