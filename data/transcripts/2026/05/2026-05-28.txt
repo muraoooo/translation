@@ -479,3 +479,4 @@
 [11:34:13] en-ja browser: each day we are limited to 10 companies per day.
 [11:34:18] en-ja browser: And yesterday, when I checked, they still have one or two spots
 [11:34:20] en-ja browser: to sign up. So if you have now signed up to my
+[11:34:21] en-ja browser: server,
