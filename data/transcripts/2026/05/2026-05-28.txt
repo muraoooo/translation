@@ -491,3 +491,4 @@
 [11:34:51] en-ja browser: It's going to happen on June 26,
 [11:34:56] en-ja browser: for afternoon time from 01:30 to 4PM.
 [11:35:00] en-ja browser: And this is strictly limited to 20 company
+[11:35:05] en-ja browser: and require advanced sign up, which again sign up to the server.
