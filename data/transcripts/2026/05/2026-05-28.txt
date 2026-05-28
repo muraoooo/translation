@@ -447,3 +447,4 @@
 [11:32:13] en-ja browser: It will be nice to bring extra business card because you are probably going to hand out
 [11:32:19] en-ja browser: Even though in this modern day, a lot of people just use LinkedIn or just
 [11:32:23] en-ja browser: scan a QR code, but there's still some good amount of people love the
+[11:32:28] en-ja browser: traditional idea collecting business cards. So just a friendly
