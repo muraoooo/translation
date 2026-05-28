@@ -477,3 +477,4 @@
 [11:34:09] en-ja browser: So we have two global solution showcase for people to sign up.
 [11:34:10] en-ja browser: Which
 [11:34:13] en-ja browser: each day we are limited to 10 companies per day.
+[11:34:18] en-ja browser: And yesterday, when I checked, they still have one or two spots
