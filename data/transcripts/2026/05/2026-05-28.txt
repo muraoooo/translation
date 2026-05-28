@@ -342,3 +342,4 @@
 [11:25:51] en-ja browser: Inspection, and before you leave.
 [11:25:53] en-ja browser: If you walk away with
 [11:25:55] en-ja browser: my equipment,
+[11:25:56] en-ja browser: you will be there.
