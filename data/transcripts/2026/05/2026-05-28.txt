@@ -177,3 +177,4 @@
 [11:17:25] en-ja browser: If you submit a lost of
 [11:17:26] en-ja browser: low
 [11:17:31] en-ja browser: resolution JPEG file or even just a
+[11:17:33] en-ja browser: PNG file or even you submit a PDF file.
