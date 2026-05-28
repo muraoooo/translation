@@ -319,3 +319,4 @@
 [11:24:44] en-ja browser: are patented at your booth.
 [11:24:46] en-ja browser: Carry them with you when you leave
 [11:24:48] en-ja browser: for lunch or even when you're
+[11:24:53] en-ja browser: just go to a restroom or ask for the neighbor to kind of, like, a couple for you
