@@ -482,3 +482,4 @@
 [11:34:21] en-ja browser: server,
 [11:34:26] en-ja browser: please click the link on the exhibitor guide
 [11:34:28] en-ja browser: secure your spot.
+[11:34:34] en-ja browser: I served with the first come first serve. So if the spa is for
