@@ -56,3 +56,4 @@
 [11:09:52] en-ja browser: The door is open to visitor every day at 9AM,
 [11:09:54] en-ja browser: and close at 5PM.
 [11:09:59] en-ja browser: Please keep in mind that the last entry for visitor each day is
+[11:10:03] en-ja browser: The venue is at
