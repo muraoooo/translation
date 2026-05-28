@@ -196,3 +196,4 @@
 [11:18:25] en-ja browser: And you are welcome to bring your own power strip or extended cord
 [11:18:30] en-ja browser: but you must ensure your total combined device
 [11:18:30] en-ja browser: usage stay under 500 watt.
+[11:18:35] en-ja browser: please do not plug in any outside outlet or
