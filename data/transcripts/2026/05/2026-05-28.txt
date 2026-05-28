@@ -22,3 +22,4 @@
 [11:07:40] en-ja browser: And we will also have a q and a section. So
 [11:07:43] en-ja browser: can also save your question later, but feel free to raise your hand anytime if you have a
 [11:07:51] en-ja browser: I will walk you through the essential
+[11:07:58] en-ja browser: operation, design, and logistic detail of AI expo AI to ensure that your team will have
