@@ -109,3 +109,4 @@
 [11:13:19] en-ja browser: chill, want to take the taxi or Uber. This is also available.
 [11:13:22] en-ja browser: Taxi operate twenty four hours a day.
 [11:13:24] en-ja browser: Outside for both terminals.
+[11:13:32] en-ja browser: Both option, either taxi or Uber, take around forty to sixty minutes depends on the traffic and the cost between
