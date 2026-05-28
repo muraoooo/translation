@@ -370,3 +370,4 @@
 [11:27:46] en-ja browser: direction. You can choose if you want to come by cycling or take the public transportation.
 [11:27:50] en-ja browser: Or even just take the taxi, I think this is gonna be easier for you.
 [11:27:53] en-ja browser: To decide which will be the best way to do
+[11:27:55] en-ja browser: And
