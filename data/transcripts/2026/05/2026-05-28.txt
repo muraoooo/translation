@@ -222,3 +222,4 @@
 [11:19:43] en-ja browser: device are allowed in the hall or anywhere in the venue.
 [11:19:44] en-ja browser: Not open
 [11:19:47] en-ja browser: milding, or compressing gas out loud,
+[11:19:49] en-ja browser: no amplified speaker,
