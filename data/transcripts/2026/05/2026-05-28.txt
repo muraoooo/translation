@@ -513,3 +513,4 @@
 [11:36:39] en-ja browser: Go ahead.
 [11:36:45] en-ja browser: So to first save, I will say
 [11:36:47] en-ja browser: probably it's around
+[11:36:48] en-ja browser: the
