@@ -42,3 +42,4 @@
 [11:08:56] en-ja browser: So let's go back to the
 [11:09:00] en-ja browser: screen. If you look at the screen right now, you can see there's a chat
 [11:09:01] en-ja browser: You can click
+[11:09:03] en-ja browser: you can click the
