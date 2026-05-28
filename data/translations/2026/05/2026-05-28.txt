@@ -208,3 +208,4 @@
 [11:19:06] en-ja browser: そして
 [11:19:07] en-ja browser: はい。
 [11:19:16] en-ja browser: また、ある種の、
+[11:19:19] en-ja browser: 安全シーン。
