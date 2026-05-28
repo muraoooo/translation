@@ -226,3 +226,4 @@
 [11:20:09] en-ja browser: また、ご了承ください
 [11:20:11] en-ja browser: ここ、
 [11:20:13] en-ja browser: これは
+[11:20:16] en-ja browser: あなたにとって重要な情報。
