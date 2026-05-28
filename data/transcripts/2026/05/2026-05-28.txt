@@ -254,3 +254,4 @@
 [11:21:07] en-ja browser: 4PM to 6PM to move in.
 [11:21:10] en-ja browser: And move out is June 26.
 [11:21:14] en-ja browser: Friday, from 5PM to 06:30.
+[11:21:18] en-ja browser: All set up must be 100% complete during this time
