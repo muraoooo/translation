@@ -35,3 +35,4 @@
 [11:08:32] en-ja browser: important information. For example, like, what
 [11:08:34] en-ja browser: your booth number, etcetera. So I'm gonna
 [11:08:37] en-ja browser: paste the link
+[11:08:39] en-ja browser: to
