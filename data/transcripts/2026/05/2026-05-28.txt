@@ -788,3 +788,4 @@
 [11:52:11] en-ja browser: If you did not sign up for the pre event tour,
 [11:52:13] en-ja browser: you don't have to arrive at the June 21.
 [11:52:16] en-ja browser: If you did sign up for
+[11:52:19] en-ja browser: the Priyavent tour, then please arrive at
