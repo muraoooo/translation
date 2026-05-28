@@ -102,3 +102,4 @@
 [11:12:51] en-ja browser: You can use this card to tap to the metro gates, pay for the bus,
 [11:12:54] en-ja browser: and even buy things at a convenience store throughout your stay.
 [11:12:55] en-ja browser: And
+[11:13:00] en-ja browser: just kind of like to keep in mind that one way from main
