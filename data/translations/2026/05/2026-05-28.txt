@@ -376,3 +376,4 @@
 [11:29:08] en-ja browser: 10時方向。
 [11:29:09] en-ja browser: それで
 [11:29:13] en-ja browser: これが私たちが行くエリアです
+[11:29:14] en-ja browser: ちょうど
