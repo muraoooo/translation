@@ -246,3 +246,4 @@
 [11:20:43] en-ja browser: Remember,
 [11:20:47] en-ja browser: at least one team member must be stationed
 [11:20:50] en-ja browser: at your booth at all time during the exhibition hours.
+[11:20:52] en-ja browser: And
