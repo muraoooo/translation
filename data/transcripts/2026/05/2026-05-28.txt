@@ -152,3 +152,4 @@
 [11:16:06] en-ja browser: responsible for creating a graphic design for your booth
 [11:16:07] en-ja browser: poster.
 [11:16:12] en-ja browser: The organizer, which is me, will handle the
+[11:16:13] en-ja browser: printing. We will hand your design to our
