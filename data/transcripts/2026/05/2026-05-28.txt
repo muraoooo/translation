@@ -262,3 +262,4 @@
 [11:21:34] en-ja browser: Gogo Pavilions and
 [11:21:35] en-ja browser: to
 [11:21:38] en-ja browser: you will receive a boost checklist.
+[11:21:42] en-ja browser: Please inspect your booth carefully to confirm that
