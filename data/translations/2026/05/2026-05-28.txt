@@ -14,3 +14,4 @@
 [11:06:30] en-ja browser: もっと人がいるよ。
 [11:07:10] en-ja browser: 私の画面が見えますか？
 [11:07:12] en-ja browser: はい。見える。
+[11:07:14] en-ja browser: はい。素晴らしい。
