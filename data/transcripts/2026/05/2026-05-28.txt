@@ -435,3 +435,4 @@
 [11:31:34] en-ja browser: hold a c level or a sapling level business card,
 [11:31:39] en-ja browser: You have to show your sticker, which you will if you are already in the
 [11:31:40] en-ja browser: venue.
+[11:31:41] en-ja browser: Somewhere.
