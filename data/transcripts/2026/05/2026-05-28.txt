@@ -786,3 +786,4 @@
 [11:52:06] en-ja browser: before the actual export, which is going to be
 [11:52:07] en-ja browser: June '26,
 [11:52:11] en-ja browser: If you did not sign up for the pre event tour,
+[11:52:13] en-ja browser: you don't have to arrive at the June 21.
