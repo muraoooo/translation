@@ -591,3 +591,4 @@
 [11:41:08] en-ja browser: business business event.
 [11:41:09] en-ja browser: But we were invited
 [11:41:15] en-ja browser: CBCs and system integrator to be kind of our guest to sit
+[11:41:17] en-ja browser: under the stage that listen to you pitch.
