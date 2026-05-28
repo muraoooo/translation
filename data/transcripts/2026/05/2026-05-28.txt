@@ -633,3 +633,4 @@
 [11:43:45] en-ja browser: but definitely will show the list and confirm that
 [11:43:48] en-ja browser: where is the culprit will show up
 [11:43:49] en-ja browser: before you
+[11:43:51] en-ja browser: left your own country.
