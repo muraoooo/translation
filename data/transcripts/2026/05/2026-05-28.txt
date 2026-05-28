@@ -263,3 +263,4 @@
 [11:21:35] en-ja browser: to
 [11:21:38] en-ja browser: you will receive a boost checklist.
 [11:21:42] en-ja browser: Please inspect your booth carefully to confirm that
+[11:21:49] en-ja browser: you have all your table, you have all of your chair that I just mentioned earlier, and the spotlight is
