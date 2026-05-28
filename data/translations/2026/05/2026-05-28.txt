@@ -281,3 +281,4 @@
 [11:23:27] en-ja browser: 通常のテープ。
 [11:23:29] en-ja browser: 必ずしてください
 [11:23:30] en-ja browser: を使用してください
+[11:23:32] en-ja browser: カソードテープのみ。
