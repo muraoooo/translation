@@ -55,3 +55,4 @@
 [11:09:48] en-ja browser: So the expo is running from June twenty four, Wednesday, to June 26, Friday.
 [11:09:52] en-ja browser: The door is open to visitor every day at 9AM,
 [11:09:54] en-ja browser: and close at 5PM.
+[11:09:59] en-ja browser: Please keep in mind that the last entry for visitor each day is
