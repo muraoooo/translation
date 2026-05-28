@@ -842,3 +842,4 @@
 [11:55:21] en-ja browser: you also send out a bilingual representative on your booth.
 [11:55:26] en-ja browser: Otherwise, you are just gonna attract a slightly wrong audience to your booth
 [11:55:31] en-ja browser: and you will have some communication inefficient situation. For example,
+[11:55:35] en-ja browser: you can only speak English or Japanese, and you are chatting to
