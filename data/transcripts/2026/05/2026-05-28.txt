@@ -110,3 +110,4 @@
 [11:13:22] en-ja browser: Taxi operate twenty four hours a day.
 [11:13:24] en-ja browser: Outside for both terminals.
 [11:13:32] en-ja browser: Both option, either taxi or Uber, take around forty to sixty minutes depends on the traffic and the cost between
+[11:13:40] en-ja browser: 1,200 to 1,600 new new Taiwanese dollar, which is around 35 to 50 US dollar.
