@@ -436,3 +436,4 @@
 [11:31:39] en-ja browser: You have to show your sticker, which you will if you are already in the
 [11:31:40] en-ja browser: venue.
 [11:31:41] en-ja browser: Somewhere.
+[11:31:46] en-ja browser: And also show your business card, then you are able to get into the VIP VIP lounge
