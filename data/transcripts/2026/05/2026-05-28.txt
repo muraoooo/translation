@@ -184,3 +184,4 @@
 [11:17:47] en-ja browser: So
 [11:17:49] en-ja browser: keeping in mind that if that's your only option,
 [11:17:54] en-ja browser: cannot guarantee you that your final printing is not gonna
+[11:17:55] en-ja browser: be a pixel blurry.
