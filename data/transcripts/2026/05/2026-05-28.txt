@@ -197,3 +197,4 @@
 [11:18:30] en-ja browser: but you must ensure your total combined device
 [11:18:30] en-ja browser: usage stay under 500 watt.
 [11:18:35] en-ja browser: please do not plug in any outside outlet or
+[11:18:36] en-ja browser: floor panel.
