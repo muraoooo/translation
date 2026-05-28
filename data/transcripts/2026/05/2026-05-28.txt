@@ -780,3 +780,4 @@
 [11:51:43] en-ja browser: twenty second, and I was thinking if there was a reason for
 [11:51:46] en-ja browser: why we must arrive on June 21.
 [11:51:51] en-ja browser: That's a very good question. I'm pretty sure a lot of people also have the same confusion.
+[11:51:53] en-ja browser: This is a condition
