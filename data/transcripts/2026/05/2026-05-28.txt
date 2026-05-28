@@ -388,3 +388,4 @@
 [11:28:41] en-ja browser: resolution available to Canva, which
 [11:28:45] en-ja browser: vada, it opened. Yay.
 [11:28:50] en-ja browser: So I hope this is figured
+[11:28:52] en-ja browser: for you, but we will kind of work to step by step
