@@ -570,3 +570,4 @@
 [11:40:07] en-ja browser: I will send you the recording afterward.
 [11:40:08] en-ja browser: That's for sure.
 [11:40:13] en-ja browser: If there's a full provider doing the expo
+[11:40:15] en-ja browser: no. They will not be full provided.
