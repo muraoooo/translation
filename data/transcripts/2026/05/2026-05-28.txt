@@ -171,3 +171,4 @@
 [11:16:58] en-ja browser: There's a reason for that.
 [11:17:00] en-ja browser: For the poster design,
 [11:17:05] en-ja browser: we want to have a high resolution
+[11:17:08] en-ja browser: print it out and maybe enlarge.
