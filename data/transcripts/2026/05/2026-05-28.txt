@@ -412,3 +412,4 @@
 [11:30:16] en-ja browser: look at the bottom left.
 [11:30:20] en-ja browser: There's a light blue, sky blue box here.
 [11:30:24] en-ja browser: This is a primer matchmaking set this is a primer match
+[11:30:26] en-ja browser: Which
