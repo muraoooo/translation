@@ -409,3 +409,4 @@
 [11:30:03] en-ja browser: If you sign up for the global solution showcase, this is where you are gonna to
 [11:30:08] en-ja browser: pitch and share your products and service, your AI,
 [11:30:11] en-ja browser: solution to all of the audience and our invited guests.
+[11:30:16] en-ja browser: look at the bottom left.
