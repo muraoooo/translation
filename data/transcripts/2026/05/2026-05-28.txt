@@ -718,3 +718,4 @@
 [11:48:14] en-ja browser: I will share this
 [11:48:18] en-ja browser: exhibitor guide with you after this meeting.
 [11:48:20] en-ja browser: To WhatsApp or email
+[11:48:21] en-ja browser: But like I say,
