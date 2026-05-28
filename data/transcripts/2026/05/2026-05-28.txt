@@ -50,3 +50,4 @@
 [11:09:25] en-ja browser: But if I'm not available, you can also reach to my boss, which is Kyle.
 [11:09:26] en-ja browser: And important note,
 [11:09:31] en-ja browser: if you have an urgent issue outside and cannot reach any of us,
+[11:09:34] en-ja browser: please go directly to the service desk at the venue
