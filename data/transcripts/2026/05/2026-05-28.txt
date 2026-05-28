@@ -329,3 +329,4 @@
 [11:25:12] en-ja browser: breakdown is picking Friday.
 [11:25:13] en-ja browser: June 26,
 [11:25:17] en-ja browser: from 5PM to 06:30. This is also quite important.
+[11:25:21] en-ja browser: You have to restore your boost to its
