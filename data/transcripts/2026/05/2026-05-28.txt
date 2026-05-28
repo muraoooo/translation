@@ -857,3 +857,4 @@
 [11:56:15] en-ja browser: people in Taipei can speak good English. Not perfect, but good.
 [11:56:17] en-ja browser: But depends on who you want to attract it. Do you want to attract
 [11:56:26] en-ja browser: the people who can only speak Mandarin, or do you want to attract people who understand
+[11:56:30] en-ja browser: what you are selling
