@@ -690,3 +690,4 @@
 [11:46:46] en-ja browser: two weeks.
 [11:46:49] en-ja browser: So it will probably
 [11:46:51] en-ja browser: Two weeks prior to the event.
+[11:46:53] en-ja browser: Yes.
