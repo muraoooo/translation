@@ -170,3 +170,4 @@
 [11:16:58] en-ja browser: Adobe Illustrator ファイルと場合によっては PNG ファイル
 [11:16:58] en-ja browser: それには理由があります。
 [11:17:01] en-ja browser: ポスターデザインに関しては、
+[11:17:06] en-ja browser: 高解像度が必要です
