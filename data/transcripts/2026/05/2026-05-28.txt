@@ -819,3 +819,4 @@
 [11:54:02] en-ja browser: 10:55. You are welcome to ask me any question.
 [11:54:05] en-ja browser: And
 [11:54:10] en-ja browser: a very important, I guess, I will send out the exhibitor guide in PDF form
+[11:54:15] en-ja browser: after this after this meeting, after I close this
