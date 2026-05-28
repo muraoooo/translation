@@ -43,3 +43,4 @@
 [11:09:00] en-ja browser: screen. If you look at the screen right now, you can see there's a chat
 [11:09:01] en-ja browser: You can click
 [11:09:03] en-ja browser: you can click the
+[11:09:07] en-ja browser: chat. They can click the link here later when I send you the exhibitor guide.
