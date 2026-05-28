@@ -832,3 +832,4 @@
 [11:54:51] en-ja browser: Who is gonna be your target audience?
 [11:54:54] en-ja browser: What's your purpose to sign up from this
 [11:54:59] en-ja browser: If your event is to attract Taiwanese audience,
+[11:55:00] en-ja browser: then yes.
