@@ -608,3 +608,4 @@
 [11:42:17] en-ja browser: current business problem they are facing.
 [11:42:21] en-ja browser: So they will be too tired of Appian.
 [11:42:25] en-ja browser: Yes. That's very helpful. Thank you very much. Would you also
+[11:42:29] en-ja browser: be able to share a bit more on the corporate, like, you know, during innovation track?
