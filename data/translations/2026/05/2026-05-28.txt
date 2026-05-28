@@ -693,3 +693,4 @@
 [11:48:21] en-ja browser: WhatsApp または電子メールに送信する
 [11:48:22] en-ja browser: しかし、私が言うように、
 [11:48:27] en-ja browser: 私は WhatsApp に送信することを好みます。なぜなら、WhatsApp の方が誰とでも簡単にコミュニケーションできるからです。
+[11:48:32] en-ja browser: わかった。何か質問のある人はいますか？
