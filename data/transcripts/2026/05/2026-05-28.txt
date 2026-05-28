@@ -249,3 +249,4 @@
 [11:20:52] en-ja browser: And
 [11:20:53] en-ja browser: for
 [11:20:56] en-ja browser: move in and move out,
+[11:21:03] en-ja browser: we will take the place
