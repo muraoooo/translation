@@ -367,3 +367,4 @@
 [11:27:28] en-ja browser: you want to go to
 [11:27:29] en-ja browser: let's see,
 [11:27:41] en-ja browser: the X portal, which is the AI Taiwan expo will actually happen. You can just, like, choose your place, and you click your
+[11:27:46] en-ja browser: direction. You can choose if you want to come by cycling or take the public transportation.
