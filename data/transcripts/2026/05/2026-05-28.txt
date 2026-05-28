@@ -305,3 +305,4 @@
 [11:24:04] en-ja browser: you can also ask the gaffer tape assistant directly at the service desk.
 [11:24:06] en-ja browser: Next to the going pavilions.
 [11:24:11] en-ja browser: And just for a quick
+[11:24:13] en-ja browser: mobile,
