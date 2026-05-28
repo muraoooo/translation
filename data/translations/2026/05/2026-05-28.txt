@@ -195,3 +195,4 @@
 [11:18:32] en-ja browser: それで
 [11:18:36] en-ja browser: 外部のコンセントに差し込んだり、
 [11:18:37] en-ja browser: フロアパネル。
+[11:18:40] en-ja browser: 厳密に
