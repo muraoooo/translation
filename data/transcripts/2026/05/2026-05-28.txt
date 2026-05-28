@@ -648,3 +648,4 @@
 [11:44:25] en-ja browser: Thank you.
 [11:44:32] en-ja browser: Okay. So moving back moving back to the food. Yes. And then
 [11:44:35] en-ja browser: there is no food provided during the export.
+[11:44:37] en-ja browser: However,
