@@ -248,3 +248,4 @@
 [11:20:50] en-ja browser: at your booth at all time during the exhibition hours.
 [11:20:52] en-ja browser: And
 [11:20:53] en-ja browser: for
+[11:20:56] en-ja browser: move in and move out,
