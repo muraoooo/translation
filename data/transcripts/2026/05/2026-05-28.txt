@@ -73,3 +73,4 @@
 [11:10:53] en-ja browser: add the Google Map list that we pre saved for you.
 [11:10:57] en-ja browser: To your phone or your account, and you can just choose your
 [11:10:59] en-ja browser: preferred way to go to those venue.
+[11:11:02] en-ja browser: And so the international exhibitor arrived at
