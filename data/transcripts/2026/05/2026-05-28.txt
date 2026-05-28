@@ -503,3 +503,4 @@
 [11:35:58] en-ja browser: May I ask to Krishna?
 [11:36:00] en-ja browser: Yes. Sure. Go ahead.
 [11:36:04] en-ja browser: And do you have any
+[11:36:04] en-ja browser: recorded hotel?
