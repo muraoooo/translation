@@ -310,3 +310,4 @@
 [11:24:18] en-ja browser: sec security.
 [11:24:23] en-ja browser: Organizer is not liable for your loss or
 [11:24:23] en-ja browser: property
+[11:24:27] en-ja browser: our my friendly advice is to set up
