@@ -670,3 +670,4 @@
 [11:45:39] en-ja browser: Yes.
 [11:45:42] en-ja browser: Hi. I saw you raise your hand.
 [11:45:45] en-ja browser: Tatsumo, it's you.
+[11:45:47] en-ja browser: Am I pronouncing it right?
