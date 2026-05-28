@@ -616,3 +616,4 @@
 [11:42:46] en-ja browser: we will partner with this
 [11:42:49] en-ja browser: ecosystem partner, StarFat,
 [11:42:54] en-ja browser: and we will work with them to invite different corporate
+[11:43:00] en-ja browser: join innovation track to kind of, like, you can think of it as a
