@@ -212,3 +212,4 @@
 [11:19:05] en-ja browser: And
 [11:19:07] en-ja browser: yes.
 [11:19:15] en-ja browser: And we also have some kind of, like, a
+[11:19:17] en-ja browser: safety
