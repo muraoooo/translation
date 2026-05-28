@@ -300,3 +300,4 @@
 [11:23:47] en-ja browser: Any kind of, like, a masking test, scotch
 [11:23:51] en-ja browser: tape, or double sided tape will tear down a boot service, and we do not want that.
 [11:23:54] en-ja browser: And if you use that, you will be billed for the damage.
+[11:23:55] en-ja browser: And if you
