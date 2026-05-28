@@ -325,3 +325,4 @@
 [11:25:01] en-ja browser: when the venue close overnight. Use the switch mark again
 [11:25:06] en-ja browser: Unfortunately, you have to use your street smart. I wish we can do more, but
 [11:25:06] en-ja browser: please use your Swissmall.
+[11:25:08] en-ja browser: For the both allow,
