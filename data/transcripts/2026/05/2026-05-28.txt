@@ -615,3 +615,4 @@
 [11:42:44] en-ja browser: this place, which
 [11:42:46] en-ja browser: we will partner with this
 [11:42:49] en-ja browser: ecosystem partner, StarFat,
+[11:42:54] en-ja browser: and we will work with them to invite different corporate
