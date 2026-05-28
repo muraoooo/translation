@@ -267,3 +267,4 @@
 [11:21:51] en-ja browser: working. It's functioning normally.
 [11:21:52] en-ja browser: I present
 [11:21:54] en-ja browser: and in a working order.
+[11:21:59] en-ja browser: And upon the checking, you will also receive a vamp pressure and
