@@ -286,3 +286,4 @@
 [11:23:00] en-ja browser: even if you sign up for the solution showcase, I will stop you.
 [11:23:05] en-ja browser: And if you have a HR team member coming later, you will want to come
 [11:23:10] en-ja browser: contact me texting, call me, email me to let me know that you don't need the extra
+[11:23:11] en-ja browser: sticker.
