@@ -32,3 +32,4 @@
 [11:08:17] en-ja browser: WhatsApp グループに参加していない人がいる場合は、
 [11:08:22] en-ja browser: 通勤
 [11:08:23] en-ja browser: 優先度
+[11:08:28] en-ja browser: をお知らせするコミュニケーションツールです
