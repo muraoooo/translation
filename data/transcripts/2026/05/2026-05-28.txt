@@ -307,3 +307,4 @@
 [11:24:11] en-ja browser: And just for a quick
 [11:24:13] en-ja browser: mobile,
 [11:24:15] en-ja browser: The venue has a basic
+[11:24:18] en-ja browser: sec security.
