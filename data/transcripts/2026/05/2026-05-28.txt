@@ -854,3 +854,4 @@
 [11:56:06] en-ja browser: Try not to speak it.
 [11:56:11] en-ja browser: I lost what I want to say, but I'm sorry.
 [11:56:13] en-ja browser: But, basically, people
+[11:56:15] en-ja browser: people in Taipei can speak good English. Not perfect, but good.
