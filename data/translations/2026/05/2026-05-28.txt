@@ -505,3 +505,4 @@
 [11:37:43] en-ja browser: 実は、博覧会。
 [11:37:44] en-ja browser: しかし
 [11:37:46] en-ja browser: それは重要なことですが、
+[11:37:52] en-ja browser: AI台湾プレイベントツアーに申し込むと、
