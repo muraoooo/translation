@@ -851,3 +851,4 @@
 [11:55:55] en-ja browser: Going to the official language in that certificate area is English.
 [11:56:01] en-ja browser: You are not I will recommend you not to speak with your mother tongue. Speak
 [11:56:03] en-ja browser: if your mother tongue is not English.
+[11:56:06] en-ja browser: Try not to speak it.
