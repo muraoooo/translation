@@ -33,3 +33,4 @@
 [11:08:22] en-ja browser: commute
 [11:08:28] en-ja browser: communication tool to let you guys know the
 [11:08:32] en-ja browser: important information. For example, like, what
+[11:08:34] en-ja browser: your booth number, etcetera. So I'm gonna
