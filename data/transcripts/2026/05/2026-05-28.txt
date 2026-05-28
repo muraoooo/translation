@@ -136,3 +136,4 @@
 [11:15:08] en-ja browser: Your boots come with a quick equipment
 [11:15:11] en-ja browser: can equip with the following standard item,
 [11:15:16] en-ja browser: which is going to be informational table, which is
+[11:15:20] en-ja browser: going to be the one to present your poster. I asked you to
