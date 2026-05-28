@@ -844,3 +844,4 @@
 [11:55:31] en-ja browser: and you will have some communication inefficient situation. For example,
 [11:55:35] en-ja browser: you can only speak English or Japanese, and you are chatting to
 [11:55:39] en-ja browser: person who can only speak Chinese, because right now you're including a Chinese on your flyer,
+[11:55:41] en-ja browser: just kind of a thing of the situation that
