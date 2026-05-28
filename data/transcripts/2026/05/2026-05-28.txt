@@ -59,3 +59,4 @@
 [11:10:03] en-ja browser: The venue is at
 [11:10:05] en-ja browser: Expo Par Expo Dome.
 [11:10:07] en-ja browser: And this is the address.
+[11:10:09] en-ja browser: And you will also
