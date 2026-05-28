@@ -697,3 +697,4 @@
 [11:47:02] en-ja browser: I'm sorry. Can you say it again?
 [11:47:05] en-ja browser: Can we see the list of the braces?
 [11:47:08] en-ja browser: You mean, right now?
+[11:47:09] en-ja browser: On our selecting list,
