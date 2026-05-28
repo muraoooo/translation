@@ -476,3 +476,4 @@
 [11:34:05] en-ja browser: the first day, and June 25 from 2AM to 06:30.
 [11:34:09] en-ja browser: So we have two global solution showcase for people to sign up.
 [11:34:10] en-ja browser: Which
+[11:34:13] en-ja browser: each day we are limited to 10 companies per day.
