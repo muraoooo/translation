@@ -245,3 +245,4 @@
 [11:20:41] en-ja browser: smoking zone.
 [11:20:43] en-ja browser: Remember,
 [11:20:47] en-ja browser: at least one team member must be stationed
+[11:20:50] en-ja browser: at your booth at all time during the exhibition hours.
