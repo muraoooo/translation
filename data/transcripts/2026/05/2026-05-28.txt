@@ -215,3 +215,4 @@
 [11:19:17] en-ja browser: safety
 [11:19:18] en-ja browser: safety scenes.
 [11:19:21] en-ja browser: Give me one second.
+[11:19:25] en-ja browser: We also have some safety thing that I want to tell you. So
