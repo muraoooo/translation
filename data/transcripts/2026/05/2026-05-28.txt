@@ -126,3 +126,4 @@
 [11:14:33] en-ja browser: Printing rule.
 [11:14:37] en-ja browser: That's talk about your home base for the event, for the
 [11:14:39] en-ja browser: three days event.
+[11:14:44] en-ja browser: For AI Taiwan expo, which is going to be your booth.
