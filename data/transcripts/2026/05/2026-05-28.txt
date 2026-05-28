@@ -460,3 +460,4 @@
 [11:33:15] en-ja browser: With our partner, Starfab.
 [11:33:16] en-ja browser: Focused on the corporate
 [11:33:19] en-ja browser: proof of concept
+[11:33:23] en-ja browser: The Monday afternoon, the same day, we will focus on the CBC track,
