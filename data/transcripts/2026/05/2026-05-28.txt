@@ -815,3 +815,4 @@
 [11:53:48] en-ja browser: you can type it in the chat box and we'll wait for another two minutes.
 [11:53:52] en-ja browser: And if it's not, if you don't have any question,
 [11:53:56] en-ja browser: thank you for coming, then you are welcome to leave. If you have a question,
+[11:53:58] en-ja browser: I will stay here until
