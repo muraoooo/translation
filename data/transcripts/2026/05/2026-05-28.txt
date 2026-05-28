@@ -209,3 +209,4 @@
 [11:19:01] en-ja browser: If it is,
 [11:19:03] en-ja browser: talk to me first because
 [11:19:04] en-ja browser: plug it in.
+[11:19:05] en-ja browser: And
