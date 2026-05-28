@@ -400,3 +400,4 @@
 [11:29:22] en-ja browser: two to WhatsApp and email. But right now, this is where your booth will be.
 [11:29:25] en-ja browser: And you also see a kind of like a orange box
 [11:29:30] en-ja browser: marked as a info. This is a service tag information that
+[11:29:34] en-ja browser: that I mentioned couple of times. So you kind of got a really good location that
