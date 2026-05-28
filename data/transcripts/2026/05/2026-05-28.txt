@@ -195,3 +195,4 @@
 [11:18:20] en-ja browser: have a 500 watt limit.
 [11:18:25] en-ja browser: And you are welcome to bring your own power strip or extended cord
 [11:18:30] en-ja browser: but you must ensure your total combined device
+[11:18:30] en-ja browser: usage stay under 500 watt.
