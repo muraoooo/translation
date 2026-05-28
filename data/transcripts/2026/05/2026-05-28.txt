@@ -341,3 +341,4 @@
 [11:25:49] en-ja browser: invitation?
 [11:25:51] en-ja browser: Inspection, and before you leave.
 [11:25:53] en-ja browser: If you walk away with
+[11:25:55] en-ja browser: my equipment,
