@@ -122,3 +122,4 @@
 [11:14:15] en-ja browser: アプリで直接。
 [11:14:17] en-ja browser: そして
 [11:14:23] en-ja browser: それは公共交通機関です、それで戻りましょう
+[11:14:27] en-ja browser: それで
