@@ -481,3 +481,4 @@
 [11:34:20] en-ja browser: to sign up. So if you have now signed up to my
 [11:34:21] en-ja browser: server,
 [11:34:26] en-ja browser: please click the link on the exhibitor guide
+[11:34:28] en-ja browser: secure your spot.
