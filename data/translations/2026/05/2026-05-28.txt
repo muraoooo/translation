@@ -325,3 +325,4 @@
 [11:25:49] en-ja browser: 招待？
 [11:25:52] en-ja browser: 点検、そして出発前に。
 [11:25:54] en-ja browser: 一緒に歩き去ったら
+[11:25:55] en-ja browser: 私の装備、
