@@ -216,3 +216,4 @@
 [11:19:18] en-ja browser: safety scenes.
 [11:19:21] en-ja browser: Give me one second.
 [11:19:25] en-ja browser: We also have some safety thing that I want to tell you. So
+[11:19:30] en-ja browser: it's gonna be a little bit boring, but please pay a little bit attention about the safety construction.
