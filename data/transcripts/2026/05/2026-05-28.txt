@@ -767,3 +767,4 @@
 [11:51:00] en-ja browser: Use this link, and I will send out to you, or
 [11:51:00] en-ja browser: I could put it on chat
 [11:51:01] en-ja browser: chat right now.
+[11:51:03] en-ja browser: For people who haven't signed up.
