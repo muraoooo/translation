@@ -584,3 +584,4 @@
 [11:40:47] en-ja browser: Are we talking about a global show?
 [11:40:52] en-ja browser: Solution showcase? Global solution showcase. Yes.
 [11:40:55] en-ja browser: So the IBM will be two type of IBM. So because this is the
+[11:40:57] en-ja browser: public event, so there will be audience
