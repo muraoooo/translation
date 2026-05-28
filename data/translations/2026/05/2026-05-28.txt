@@ -257,3 +257,4 @@
 [11:21:53] en-ja browser: 私がプレゼントします
 [11:21:54] en-ja browser: そして正常に動作します。
 [11:22:00] en-ja browser: スティック
+[11:22:02] en-ja browser: 出品者ステッカー。
