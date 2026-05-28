@@ -206,3 +206,4 @@
 [11:19:04] en-ja browser: まず私に話してください、なぜなら
 [11:19:05] en-ja browser: 差し込んでください。
 [11:19:06] en-ja browser: そして
+[11:19:07] en-ja browser: はい。
