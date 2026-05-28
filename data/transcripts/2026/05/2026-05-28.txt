@@ -251,3 +251,4 @@
 [11:20:56] en-ja browser: move in and move out,
 [11:21:03] en-ja browser: we will take the place
 [11:21:05] en-ja browser: Tuesday, June 23 for
+[11:21:07] en-ja browser: 4PM to 6PM to move in.
