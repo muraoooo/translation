@@ -776,3 +776,4 @@
 [11:51:26] en-ja browser: Hello. Can I also ask a question, please? Sure. Go ahead.
 [11:51:29] en-ja browser: Thank you. So just on the page you're showing, I don't know
 [11:51:34] en-ja browser: sorry if I missed it earlier in your explanation. But Yeah.
+[11:51:41] en-ja browser: It's noted we must arrive June twenty first on Sunday. I was thinking of going on the in the morning of
